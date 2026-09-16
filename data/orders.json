@@ -1,0 +1,492 @@
+[
+ {
+  "order_id": "NM-2026-448120",
+  "customer_name": "Ahmed Abosamra",
+  "customer_phone": "+2010*****812",
+  "customer_email": "a.***@example.com",
+  "order_datetime": "2026-09-10 09:14",
+  "status": "Out for delivery",
+  "status_ar": "خرج للتوصيل",
+  "fulfilment_type": "Express (2h)",
+  "delivery_slot": "2026-09-10 09:00-11:00",
+  "delivery_area": "Sheikh Zayed, Giza",
+  "delivery_address": "Villa 22, District 12, Sheikh Zayed",
+  "items": [
+   {
+    "sku": "NM-DEB-001",
+    "name": "Full-Fat Fresh Milk 1L",
+    "name_ar": "لبن كامل الدسم طازج ١ لتر",
+    "qty": 2
+   },
+   {
+    "sku": "NM-DEB-020",
+    "name": "Baladi Bread (pack of 10)",
+    "name_ar": "عيش بلدي ١٠ أرغفة",
+    "qty": 1
+   },
+   {
+    "sku": "NM-PRD-001",
+    "name": "Fresh Tomatoes 1kg",
+    "name_ar": "طماطم طازجة ١ كجم",
+    "qty": 2
+   },
+   {
+    "sku": "NM-MPS-008",
+    "name": "Chicken Breast Fillet 1kg",
+    "name_ar": "صدور فراخ فيليه ١ كجم",
+    "qty": 1
+   }
+  ],
+  "items_count": 4,
+  "subtotal_egp": 450,
+  "delivery_fee_egp": 79,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 529,
+  "payment_method": "Card (Visa ****4417)",
+  "payment_status": "Paid",
+  "loyalty_tier": "Gold",
+  "points_earned": 52,
+  "courier_name": "Mahmoud A.",
+  "courier_phone": "+2010*****330",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-448120",
+  "eta": "2026-09-10 10:35",
+  "fulfilled_from": "ST-07 Sheikh Zayed",
+  "agent_notes": "Customer asked driver to call on arrival. Gate access code in address notes."
+ },
+ {
+  "order_id": "NM-2026-448077",
+  "customer_name": "Mona Kamel",
+  "customer_phone": "+2011*****204",
+  "customer_email": "m.***@example.com",
+  "order_datetime": "2026-09-10 08:02",
+  "status": "Preparing",
+  "status_ar": "جاري التجهيز",
+  "fulfilment_type": "Same-day scheduled",
+  "delivery_slot": "2026-09-10 14:00-16:00",
+  "delivery_area": "Maadi, Cairo",
+  "delivery_address": "Flat 6, 8 Road 250, Degla, Maadi",
+  "items": [
+   {
+    "sku": "NM-GRO-001",
+    "name": "Egyptian Short-Grain Rice 1kg",
+    "name_ar": "أرز مصري قصير الحبة ١ كجم",
+    "qty": 2
+   },
+   {
+    "sku": "NM-GRO-006",
+    "name": "Sunflower Cooking Oil 1.8L",
+    "name_ar": "زيت عباد الشمس ١.٨ لتر",
+    "qty": 1
+   },
+   {
+    "sku": "NM-DEB-008",
+    "name": "Domiati White Cheese 500g",
+    "name_ar": "جبنة بيضاء دمياطي ٥٠٠ جم",
+    "qty": 1
+   },
+   {
+    "sku": "NM-DEB-018",
+    "name": "White Table Eggs (30)",
+    "name_ar": "بيض أبيض ٣٠ بيضة",
+    "qty": 1
+   },
+   {
+    "sku": "NM-PRD-018",
+    "name": "Bananas 1kg",
+    "name_ar": "موز ١ كجم",
+    "qty": 2
+   }
+  ],
+  "items_count": 5,
+  "subtotal_egp": 683,
+  "delivery_fee_egp": 45,
+  "discount_egp": 100,
+  "promo_code": "WELCOME100",
+  "total_egp": 628,
+  "payment_method": "Cash on delivery",
+  "payment_status": "Pending",
+  "loyalty_tier": "Blue",
+  "points_earned": 62,
+  "courier_name": "",
+  "courier_phone": "",
+  "tracking_url": "",
+  "eta": "2026-09-10 15:20",
+  "fulfilled_from": "ST-03 Maadi",
+  "agent_notes": "First order — WELCOME100 applied. Substitution consent given for eggs."
+ },
+ {
+  "order_id": "NM-2026-447903",
+  "customer_name": "Karim Nabil",
+  "customer_phone": "+2012*****551",
+  "customer_email": "k.***@example.com",
+  "order_datetime": "2026-09-09 19:40",
+  "status": "Delivered",
+  "status_ar": "تم التوصيل",
+  "fulfilment_type": "Next-day scheduled",
+  "delivery_slot": "2026-09-10 10:00-12:00",
+  "delivery_area": "Nasr City, Cairo",
+  "delivery_address": "Flat 11, 12 Abbas El Akkad, Nasr City",
+  "items": [
+   {
+    "sku": "NM-APP-001",
+    "name": "No-Frost Refrigerator 16 ft³",
+    "name_ar": "ثلاجة نوفروست ١٦ قدم",
+    "qty": 1
+   },
+   {
+    "sku": "NM-APP-012",
+    "name": "Electric Kettle 1.7L",
+    "name_ar": "كاتيل كهربائي ١.٧ لتر",
+    "qty": 1
+   }
+  ],
+  "items_count": 2,
+  "subtotal_egp": 44280,
+  "delivery_fee_egp": 250,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 44530,
+  "payment_method": "valU instalment (12 months)",
+  "payment_status": "Paid",
+  "loyalty_tier": "Silver",
+  "points_earned": 4453,
+  "courier_name": "Sayed M.",
+  "courier_phone": "+2010*****771",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-447903",
+  "eta": "2026-09-10 11:05",
+  "fulfilled_from": "ST-01 Nasr City",
+  "agent_notes": "Fridge carried in and levelled. Customer signed handover. Warranty card left with invoice."
+ },
+ {
+  "order_id": "NM-2026-447688",
+  "customer_name": "Nourhan Salah",
+  "customer_phone": "+2015*****119",
+  "customer_email": "n.***@example.com",
+  "order_datetime": "2026-09-09 13:22",
+  "status": "Delivered - issue reported",
+  "status_ar": "تم التوصيل - تم الإبلاغ عن مشكلة",
+  "fulfilment_type": "Same-day scheduled",
+  "delivery_slot": "2026-09-09 18:00-20:00",
+  "delivery_area": "Smouha, Alexandria",
+  "delivery_address": "Flat 3, 14 Victor Emanuel Square, Smouha",
+  "items": [
+   {
+    "sku": "NM-PRD-026",
+    "name": "Fresh Strawberries 500g",
+    "name_ar": "فراولة طازجة ٥٠٠ جم",
+    "qty": 2
+   },
+   {
+    "sku": "NM-PRD-022",
+    "name": "Seedless White Grapes 1kg",
+    "name_ar": "عنب أبيض بدون بذر ١ كجم",
+    "qty": 1
+   },
+   {
+    "sku": "NM-DEB-006",
+    "name": "Greek Yoghurt 150g",
+    "name_ar": "زبادي يوناني ١٥٠ جم",
+    "qty": 4
+   }
+  ],
+  "items_count": 3,
+  "subtotal_egp": 348,
+  "delivery_fee_egp": 45,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 393,
+  "payment_method": "Vodafone Cash",
+  "payment_status": "Paid",
+  "loyalty_tier": "Blue",
+  "points_earned": 39,
+  "courier_name": "Hossam F.",
+  "courier_phone": "+2010*****448",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-447688",
+  "eta": "2026-09-09 19:10",
+  "fulfilled_from": "ST-11 Smouha",
+  "agent_notes": "Customer sent photo of bruised strawberries within 24h. Refund of EGP 116 approved, processed to wallet."
+ },
+ {
+  "order_id": "NM-2026-447512",
+  "customer_name": "Tarek Fouad",
+  "customer_phone": "+2010*****067",
+  "customer_email": "t.***@example.com",
+  "order_datetime": "2026-09-08 21:05",
+  "status": "Cancelled by customer",
+  "status_ar": "ملغي بواسطة العميل",
+  "fulfilment_type": "Next-day scheduled",
+  "delivery_slot": "2026-09-09 09:00-11:00",
+  "delivery_area": "Fifth Settlement, Cairo",
+  "delivery_address": "Villa 88, 90th Street North, Fifth Settlement",
+  "items": [
+   {
+    "sku": "NM-APP-019",
+    "name": "Split Air Conditioner 1.5 HP",
+    "name_ar": "تكييف سبليت ١.٥ حصان",
+    "qty": 1
+   }
+  ],
+  "items_count": 1,
+  "subtotal_egp": 34900,
+  "delivery_fee_egp": 250,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 35150,
+  "payment_method": "Card (Mastercard ****9902)",
+  "payment_status": "Refunded",
+  "loyalty_tier": "Silver",
+  "points_earned": 3515,
+  "courier_name": "",
+  "courier_phone": "",
+  "tracking_url": "",
+  "eta": "",
+  "fulfilled_from": "ST-06 Fifth Settlement",
+  "agent_notes": "Cancelled before dispatch. Full refund incl. delivery fee issued to card on 2026-09-09."
+ },
+ {
+  "order_id": "NM-2026-447344",
+  "customer_name": "Salma Adel",
+  "customer_phone": "+2011*****876",
+  "customer_email": "s.***@example.com",
+  "order_datetime": "2026-09-08 11:30",
+  "status": "Ready for collection",
+  "status_ar": "جاهز للاستلام",
+  "fulfilment_type": "Click & Collect",
+  "delivery_slot": "2026-09-08 14:00 onwards",
+  "delivery_area": "Zamalek, Cairo",
+  "delivery_address": "Collect at ST-04 Zamalek",
+  "items": [
+   {
+    "sku": "NM-SKN-004",
+    "name": "Vitamin C 15% Serum 30ml",
+    "name_ar": "سيروم فيتامين سي ١٥٪ ٣٠ مل",
+    "qty": 1
+   },
+   {
+    "sku": "NM-SKN-009",
+    "name": "Sunscreen SPF50+ Fluid 50ml",
+    "name_ar": "واقي شمس سائل SPF50+ ٥٠ مل",
+    "qty": 1
+   },
+   {
+    "sku": "NM-SKN-005",
+    "name": "Niacinamide 10% Serum 30ml",
+    "name_ar": "سيروم نياسيناميد ١٠٪ ٣٠ مل",
+    "qty": 1
+   }
+  ],
+  "items_count": 3,
+  "subtotal_egp": 1295,
+  "delivery_fee_egp": 0,
+  "discount_egp": 326.25,
+  "promo_code": "GLOW25",
+  "total_egp": 968.75,
+  "payment_method": "Card (Visa ****1180)",
+  "payment_status": "Paid",
+  "loyalty_tier": "Gold",
+  "points_earned": 96,
+  "courier_name": "",
+  "courier_phone": "",
+  "tracking_url": "",
+  "eta": "Held until 2026-09-10 14:00",
+  "fulfilled_from": "ST-04 Zamalek",
+  "agent_notes": "GLOW25 skincare bundle discount applied. Collection window expires after 48h."
+ },
+ {
+  "order_id": "NM-2026-447120",
+  "customer_name": "Hany Zaki",
+  "customer_phone": "+2012*****435",
+  "customer_email": "h.***@example.com",
+  "order_datetime": "2026-09-07 16:48",
+  "status": "Refunded",
+  "status_ar": "تم الاسترداد",
+  "fulfilment_type": "Same-day scheduled",
+  "delivery_slot": "2026-09-07 20:00-22:00",
+  "delivery_area": "Mohandessin, Giza",
+  "delivery_address": "Flat 9, 22 Shehab Street, Mohandessin",
+  "items": [
+   {
+    "sku": "NM-MPS-017",
+    "name": "Whole Bolti (Tilapia) 1kg",
+    "name_ar": "بلطي كامل ١ كجم",
+    "qty": 2
+   },
+   {
+    "sku": "NM-MPS-019",
+    "name": "Medium Shrimp 500g",
+    "name_ar": "جمبري متوسط ٥٠٠ جم",
+    "qty": 1
+   }
+  ],
+  "items_count": 2,
+  "subtotal_egp": 675,
+  "delivery_fee_egp": 45,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 720,
+  "payment_method": "Cash on delivery",
+  "payment_status": "Refunded to store credit",
+  "loyalty_tier": "Blue",
+  "points_earned": 72,
+  "courier_name": "Amr K.",
+  "courier_phone": "+2010*****219",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-447120",
+  "eta": "2026-09-07 21:15",
+  "fulfilled_from": "ST-09 Mohandessin",
+  "agent_notes": "Customer not home, phone unreachable. Fresh fish could not be redelivered; full refund as store credit."
+ },
+ {
+  "order_id": "NM-2026-446980",
+  "customer_name": "Dina Saeed",
+  "customer_phone": "+2015*****390",
+  "customer_email": "d.***@example.com",
+  "order_datetime": "2026-09-07 07:12",
+  "status": "Delivered",
+  "status_ar": "تم التوصيل",
+  "fulfilment_type": "Next-day scheduled",
+  "delivery_slot": "2026-09-08 09:00-11:00",
+  "delivery_area": "Rehab, Cairo",
+  "delivery_address": "Building 14, Group 82, Rehab City",
+  "items": [
+   {
+    "sku": "NM-HOM-001",
+    "name": "Automatic Laundry Powder 5kg",
+    "name_ar": "مسحوق غسيل أوتوماتيك ٥ كجم",
+    "qty": 1
+   },
+   {
+    "sku": "NM-HOM-005",
+    "name": "Dishwashing Liquid 750ml",
+    "name_ar": "سائل غسيل أطباق ٧٥٠ مل",
+    "qty": 2
+   },
+   {
+    "sku": "NM-HOM-013",
+    "name": "Toilet Paper (12 rolls)",
+    "name_ar": "ورق تواليت ١٢ لفة",
+    "qty": 1
+   },
+   {
+    "sku": "NM-HOM-014",
+    "name": "Facial Tissues (550 sheets)",
+    "name_ar": "مناديل ورقية ٥٥٠ منديل",
+    "qty": 2
+   },
+   {
+    "sku": "NM-HOM-007",
+    "name": "Multi-Purpose Cleaner 1L",
+    "name_ar": "منظف متعدد الاستخدامات ١ لتر",
+    "qty": 1
+   }
+  ],
+  "items_count": 5,
+  "subtotal_egp": 1213,
+  "delivery_fee_egp": 0,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 1213,
+  "payment_method": "Card (Meeza ****7731)",
+  "payment_status": "Paid",
+  "loyalty_tier": "Platinum",
+  "points_earned": 121,
+  "courier_name": "Waleed S.",
+  "courier_phone": "+2010*****602",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-446980",
+  "eta": "2026-09-08 10:20",
+  "fulfilled_from": "DS-01 Obour",
+  "agent_notes": "Free delivery — basket above EGP 1,200. Double Nile Points applied (home care campaign OFF-008)."
+ },
+ {
+  "order_id": "NM-2026-446755",
+  "customer_name": "Youssef Ibrahim",
+  "customer_phone": "+2010*****944",
+  "customer_email": "y.***@example.com",
+  "order_datetime": "2026-09-06 18:20",
+  "status": "Partially refunded",
+  "status_ar": "تم استرداد جزئي",
+  "fulfilment_type": "Express (2h)",
+  "delivery_slot": "2026-09-06 18:30-20:30",
+  "delivery_area": "Heliopolis, Cairo",
+  "delivery_address": "Flat 2, 45 El Merghany Street, Heliopolis",
+  "items": [
+   {
+    "sku": "NM-DEB-023",
+    "name": "Plain Butter Croissant (6 pieces)",
+    "name_ar": "كرواسون بالزبدة ٦ قطع",
+    "qty": 2
+   },
+   {
+    "sku": "NM-BEV-016",
+    "name": "Instant Coffee Jar 200g",
+    "name_ar": "قهوة سريعة الذوبان ٢٠٠ جم",
+    "qty": 1
+   },
+   {
+    "sku": "NM-BEV-001",
+    "name": "100% Orange Juice 1L",
+    "name_ar": "عصير برتقال ١٠٠٪ ١ لتر",
+    "qty": 2
+   }
+  ],
+  "items_count": 3,
+  "subtotal_egp": 666,
+  "delivery_fee_egp": 79,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 745,
+  "payment_method": "Card (Visa ****6650)",
+  "payment_status": "Partially refunded",
+  "loyalty_tier": "Silver",
+  "points_earned": 74,
+  "courier_name": "Nader T.",
+  "courier_phone": "+2010*****117",
+  "tracking_url": "https://www.nilemart.com.eg/track/NM-2026-446755",
+  "eta": "2026-09-06 19:40",
+  "fulfilled_from": "ST-02 Heliopolis",
+  "agent_notes": "One croissant pack missing at delivery. EGP 95 refunded to card, no return required."
+ },
+ {
+  "order_id": "NM-2026-446512",
+  "customer_name": "Rania Mostafa",
+  "customer_phone": "+2011*****283",
+  "customer_email": "r.***@example.com",
+  "order_datetime": "2026-09-06 10:05",
+  "status": "Awaiting payment",
+  "status_ar": "في انتظار الدفع",
+  "fulfilment_type": "Next-day scheduled",
+  "delivery_slot": "2026-09-07 12:00-14:00",
+  "delivery_area": "Mansoura, Dakahlia",
+  "delivery_address": "Flat 7, 30 Gehan Street, Toreil, Mansoura",
+  "items": [
+   {
+    "sku": "NM-APP-022",
+    "name": "Smart LED TV 43 inch FHD",
+    "name_ar": "تليفزيون سمارت LED ٤٣ بوصة FHD",
+    "qty": 1
+   },
+   {
+    "sku": "NM-APP-024",
+    "name": "Soundbar 2.1 with Subwoofer",
+    "name_ar": "ساوند بار ٢.١ مع صب ووفر",
+    "qty": 1
+   }
+  ],
+  "items_count": 2,
+  "subtotal_egp": 22890,
+  "delivery_fee_egp": 250,
+  "discount_egp": 0,
+  "promo_code": "",
+  "total_egp": 23140,
+  "payment_method": "Fawry reference 8842-1190",
+  "payment_status": "Unpaid - expires in 6h",
+  "loyalty_tier": "Blue",
+  "points_earned": 2314,
+  "courier_name": "",
+  "courier_phone": "",
+  "tracking_url": "",
+  "eta": "",
+  "fulfilled_from": "ST-14 Mansoura",
+  "agent_notes": "Fawry code issued 2026-09-06 10:06, expires 16:06. Order auto-cancels if unpaid."
+ }
+]

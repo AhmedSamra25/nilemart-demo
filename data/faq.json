@@ -1,0 +1,1585 @@
+[
+ {
+  "topic": "Company",
+  "topic_ar": "الشركة",
+  "slug": "company",
+  "items": [
+   {
+    "id": "FAQ-001",
+    "question": "Who is NileMart?",
+    "question_ar": "مين نايل مارت؟",
+    "answer": "NileMart is an Egyptian online hypermarket founded in 2019. We sell groceries, fresh produce, meat and seafood, dairy and bakery, beverages, skincare, home care and home appliances in one basket and deliver to your door. We have 14 stores across Greater Cairo, Alexandria and Mansoura.",
+    "answer_ar": "نايل مارت هايبر ماركت مصري أونلاين تأسس سنة ٢٠١٩. بنبيع البقالة والخضروات والفواكه واللحوم والأسماك والألبان والمخبوزات والمشروبات ومستحضرات العناية بالبشرة ومنظفات المنزل والأجهزة المنزلية في سلة واحدة ونوصلها لباب بيتك. عندنا ١٤ فرع في القاهرة الكبرى والإسكندرية والمنصورة.",
+    "keywords": [
+     "about",
+     "who are you",
+     "company",
+     "nilemart"
+    ],
+    "keywords_ar": [
+     "مين انتم",
+     "عن الشركة",
+     "نايل مارت"
+    ],
+    "intent": "company_info"
+   },
+   {
+    "id": "FAQ-002",
+    "question": "What are your customer service hours?",
+    "question_ar": "مواعيد خدمة العملاء إيه؟",
+    "answer": "The hotline 16770 is open every day from 07:00 to 01:00. WhatsApp and chat on the website and app are available 24/7 — an AI assistant answers immediately and a human agent takes over within five minutes during staffed hours. E-mail replies come within four hours between 09:00 and 21:00.",
+    "answer_ar": "الخط الساخن ١٦٧٧٠ متاح يومياً من ٧ صباحاً حتى ١ بعد منتصف الليل. واتساب والدردشة على الموقع والتطبيق متاحين ٢٤ ساعة — المساعد الذكي يرد فوراً وموظف خدمة العملاء يتابع خلال ٥ دقائق في أوقات العمل. الرد على البريد الإلكتروني خلال ٤ ساعات بين ٩ صباحاً و٩ مساءً.",
+    "keywords": [
+     "hours",
+     "contact",
+     "support",
+     "hotline",
+     "16770"
+    ],
+    "keywords_ar": [
+     "مواعيد",
+     "تواصل",
+     "خدمة العملاء",
+     "الخط الساخن"
+    ],
+    "intent": "contact_info"
+   },
+   {
+    "id": "FAQ-003",
+    "question": "How do I contact you?",
+    "question_ar": "أتواصل معاكم إزاي؟",
+    "answer": "Hotline 16770 from inside Egypt, WhatsApp, live chat on nilemart.com.eg or in the app, e-mail care@nilemart.com.eg, or direct message on Facebook and Instagram (@nilemart.eg). You can also speak to the service desk in any branch.",
+    "answer_ar": "الخط الساخن ١٦٧٧٠ من داخل مصر، أو واتساب، أو الدردشة على nilemart.com.eg أو التطبيق، أو البريد care@nilemart.com.eg، أو رسالة مباشرة على فيسبوك وإنستجرام (nilemart.eg@). ويمكنك التوجه لمكتب الخدمة في أي فرع.",
+    "keywords": [
+     "contact",
+     "phone",
+     "whatsapp",
+     "email"
+    ],
+    "keywords_ar": [
+     "تواصل",
+     "تليفون",
+     "واتساب",
+     "ايميل"
+    ],
+    "intent": "contact_info"
+   },
+   {
+    "id": "FAQ-004",
+    "question": "Do you have a mobile app?",
+    "question_ar": "عندكم تطبيق موبايل؟",
+    "answer": "Yes. The NileMart app is on the iOS App Store and Google Play. App orders get the same prices as the website, and you can track your driver live on the map once the order is out for delivery.",
+    "answer_ar": "أيوه. تطبيق نايل مارت متاح على آب ستور وجوجل بلاي. أسعار التطبيق نفس أسعار الموقع، ويمكنك تتبع مندوب التوصيل على الخريطة مباشرة بعد خروج الطلب.",
+    "keywords": [
+     "app",
+     "mobile",
+     "download",
+     "ios",
+     "android"
+    ],
+    "keywords_ar": [
+     "تطبيق",
+     "موبايل",
+     "تحميل"
+    ],
+    "intent": "company_info"
+   },
+   {
+    "id": "FAQ-005",
+    "question": "Which languages do you support?",
+    "question_ar": "بتتكلموا إيه لغات؟",
+    "answer": "Arabic and English on every channel. You can write to us in either and we reply in the same language you used.",
+    "answer_ar": "العربية والإنجليزية على كل القنوات. اكتب لنا بأي لغة منهما وسنرد بنفس اللغة.",
+    "keywords": [
+     "language",
+     "arabic",
+     "english"
+    ],
+    "keywords_ar": [
+     "لغة",
+     "عربي",
+     "انجليزي"
+    ],
+    "intent": "company_info"
+   }
+  ]
+ },
+ {
+  "topic": "Delivery",
+  "topic_ar": "التوصيل",
+  "slug": "delivery",
+  "items": [
+   {
+    "id": "FAQ-006",
+    "question": "Which areas do you deliver to?",
+    "question_ar": "بتوصلوا لفين؟",
+    "answer": "Cairo, Giza, Qalyubia, Alexandria, Mansoura, 10th of Ramadan, Zagazig, and the North Coast between Marina and Sidi Abdel Rahman during summer (15 June – 15 September). We do not deliver to Upper Egypt, the Red Sea governorate, South Sinai or the New Valley.",
+    "answer_ar": "القاهرة والجيزة والقليوبية والإسكندرية والمنصورة والعاشر من رمضان والزقازيق، والساحل الشمالي من مارينا لسيدي عبد الرحمن في الصيف (١٥ يونيو – ١٥ سبتمبر). لا نوصل حالياً لصعيد مصر أو البحر الأحمر أو جنوب سيناء أو الوادي الجديد.",
+    "keywords": [
+     "delivery area",
+     "coverage",
+     "where do you deliver",
+     "shipping"
+    ],
+    "keywords_ar": [
+     "مناطق التوصيل",
+     "بتوصلوا فين",
+     "تغطية"
+    ],
+    "intent": "delivery"
+   },
+   {
+    "id": "FAQ-007",
+    "question": "How much is delivery?",
+    "question_ar": "التوصيل بكام؟",
+    "answer": "Express within 2 hours is EGP 79 (Greater Cairo and Alexandria only). Same-day scheduled is EGP 45 if you order before 15:00. Next-day is EGP 29. Delivery is free on same-day and next-day orders over EGP 1,200 — the Express fee is never waived. Large appliances are EGP 250 flat, which includes carry-in.",
+    "answer_ar": "التوصيل السريع خلال ساعتين ٧٩ جنيهاً (القاهرة الكبرى والإسكندرية فقط). التوصيل في نفس اليوم ٤٥ جنيهاً للطلبات قبل الثالثة عصراً. توصيل الغد ٢٩ جنيهاً. التوصيل مجاني لطلبات نفس اليوم والغد فوق ١٢٠٠ جنيه — أما رسوم التوصيل السريع فلا تُلغى. الأجهزة الكبيرة ٢٥٠ جنيهاً ثابتة وتشمل الإدخال للمنزل.",
+    "keywords": [
+     "delivery fee",
+     "shipping cost",
+     "free delivery",
+     "charges"
+    ],
+    "keywords_ar": [
+     "رسوم التوصيل",
+     "مصاريف التوصيل",
+     "توصيل مجاني"
+    ],
+    "intent": "delivery"
+   },
+   {
+    "id": "FAQ-008",
+    "question": "How long does delivery take?",
+    "question_ar": "التوصيل بياخد قد إيه؟",
+    "answer": "Express arrives within 2 hours. Same-day orders placed before 15:00 arrive in a 2-hour slot you choose. Next-day orders arrive in your chosen slot the following day. Delivery runs 09:00 to 23:00, seven days a week.",
+    "answer_ar": "التوصيل السريع يوصل خلال ساعتين. طلبات نفس اليوم قبل الثالثة عصراً توصل في فترة ساعتين تختارها. طلبات الغد توصل في الفترة المختارة في اليوم التالي. التوصيل من ٩ صباحاً حتى ١١ مساءً طوال أيام الأسبوع.",
+    "keywords": [
+     "delivery time",
+     "how long",
+     "eta",
+     "slot"
+    ],
+    "keywords_ar": [
+     "مدة التوصيل",
+     "هيوصل امتى",
+     "الفترة"
+    ],
+    "intent": "delivery"
+   },
+   {
+    "id": "FAQ-009",
+    "question": "Can I change my delivery address after ordering?",
+    "question_ar": "أقدر أغير العنوان بعد الطلب؟",
+    "answer": "Yes, as long as the order has not been dispatched and the new address is in the same delivery zone. Once the driver has collected the order the address is locked. Message us on chat or call 16770 straight away.",
+    "answer_ar": "أيوه، بشرط أن الطلب لم يخرج للتوصيل بعد وأن العنوان الجديد في نفس منطقة التوصيل. بعد استلام المندوب للطلب لا يمكن تغيير العنوان. راسلنا على الدردشة أو اتصل بـ ١٦٧٧٠ فوراً.",
+    "keywords": [
+     "change address",
+     "edit order",
+     "wrong address"
+    ],
+    "keywords_ar": [
+     "تغيير العنوان",
+     "تعديل الطلب",
+     "عنوان خطأ"
+    ],
+    "intent": "order_change"
+   },
+   {
+    "id": "FAQ-010",
+    "question": "Do you deliver during Ramadan?",
+    "question_ar": "بتوصلوا في رمضان؟",
+    "answer": "Yes. During Ramadan the last slot moves to 02:00, and we do not deliver between 17:00 and 19:30 so our drivers can break their fast. Book early — the pre-iftar slots fill quickly.",
+    "answer_ar": "أيوه. في رمضان آخر فترة توصيل تكون ٢ صباحاً، ولا نوصل بين ٥ و٧:٣٠ مساءً حتى يفطر المندوبون. احجز مبكراً لأن فترات ما قبل الإفطار تنفد بسرعة.",
+    "keywords": [
+     "ramadan",
+     "delivery",
+     "iftar",
+     "hours"
+    ],
+    "keywords_ar": [
+     "رمضان",
+     "توصيل",
+     "الافطار"
+    ],
+    "intent": "delivery"
+   },
+   {
+    "id": "FAQ-011",
+    "question": "What happens if I am not home when the driver arrives?",
+    "question_ar": "لو مكنتش موجود لما المندوب يوصل؟",
+    "answer": "The driver calls you and waits up to 10 minutes. If we cannot reach you, the order returns to the store and we contact you to rebook. Fresh, chilled and frozen items cannot be redelivered for food safety reasons and are refunded. Prepaid orders keep their delivery fee; a second delivery is charged again.",
+    "answer_ar": "المندوب يتصل بك وينتظر حتى ١٠ دقائق. إذا لم نتمكن من الوصول إليك، يعود الطلب للفرع ونتواصل معك لإعادة الحجز. المنتجات الطازجة والمبردة والمجمدة لا يمكن إعادة توصيلها لأسباب تتعلق بسلامة الغذاء ويتم ردها مالياً. الطلبات المدفوعة مسبقاً تتحمل رسوم التوصيل، وإعادة التوصيل تُحسب مرة أخرى.",
+    "keywords": [
+     "not home",
+     "missed delivery",
+     "failed delivery"
+    ],
+    "keywords_ar": [
+     "مش موجود",
+     "فوت التوصيل",
+     "توصيل فاشل"
+    ],
+    "intent": "delivery"
+   },
+   {
+    "id": "FAQ-012",
+    "question": "Can I track my order?",
+    "question_ar": "أقدر أتابع طلبي؟",
+    "answer": "Yes. You get an SMS and a push notification at each stage, and once the order is out for delivery you can see the driver on a live map in the app or via the tracking link.",
+    "answer_ar": "أيوه. تصلك رسالة نصية وإشعار عند كل مرحلة، وبعد خروج الطلب للتوصيل يمكنك رؤية المندوب على خريطة مباشرة في التطبيق أو من خلال رابط التتبع.",
+    "keywords": [
+     "track",
+     "tracking",
+     "where is my order"
+    ],
+    "keywords_ar": [
+     "تتبع",
+     "فين طلبي"
+    ],
+    "intent": "order_status"
+   },
+   {
+    "id": "FAQ-013",
+    "question": "Do you offer click and collect?",
+    "question_ar": "عندكم استلام من الفرع؟",
+    "answer": "Yes, and it is free. Choose Click & Collect at checkout, pick a branch, and your order is ready within 2 hours. Bring your order number and ID. We hold collections for 48 hours.",
+    "answer_ar": "أيوه، ومجاني. اختر الاستلام من الفرع عند الدفع، وحدد الفرع، والطلب يكون جاهزاً خلال ساعتين. أحضر رقم الطلب وبطاقة الهوية. نحفظ الطلب لمدة ٤٨ ساعة.",
+    "keywords": [
+     "click and collect",
+     "pickup",
+     "collect in store"
+    ],
+    "keywords_ar": [
+     "استلام من الفرع",
+     "بيك اب"
+    ],
+    "intent": "delivery"
+   }
+  ]
+ },
+ {
+  "topic": "Orders",
+  "topic_ar": "الطلبات",
+  "slug": "orders",
+  "items": [
+   {
+    "id": "FAQ-014",
+    "question": "What payment methods do you accept?",
+    "question_ar": "بتقبلوا إيه طرق دفع؟",
+    "answer": "Visa, Mastercard and Meeza cards, cash on delivery up to EGP 25,000, card on delivery via the driver's POS, wallets (Vodafone Cash, Orange Cash, Etisalat Cash, we), Fawry reference, instalments through valU, Contact, Aman and Souhoola on baskets above EGP 3,000, plus NileMart gift cards and store credit.",
+    "answer_ar": "فيزا وماستركارد وميزة، والدفع نقداً عند الاستلام حتى ٢٥ ألف جنيه، والدفع بالبطاقة عند الاستلام من خلال ماكينة المندوب، والمحافظ (فودافون كاش، أورانج كاش، إتصالات كاش، وي)، وفوري، والتقسيط من خلال valU وكونتكت وأمان وسهولة للطلبات فوق ٣٠٠٠ جنيه، وكروت الهدايا ورصيد المتجر.",
+    "keywords": [
+     "payment",
+     "pay",
+     "cash",
+     "card",
+     "wallet",
+     "fawry",
+     "instalment"
+    ],
+    "keywords_ar": [
+     "الدفع",
+     "كاش",
+     "بطاقة",
+     "محفظة",
+     "فوري",
+     "تقسيط"
+    ],
+    "intent": "payment"
+   },
+   {
+    "id": "FAQ-015",
+    "question": "Can I pay in instalments?",
+    "question_ar": "أقدر أقسط؟",
+    "answer": "Yes, on baskets above EGP 3,000, through valU, Contact, Aman or Souhoola, over 6 to 36 months. You choose the provider at checkout and approval happens on their side. Most customers use this for appliances and electronics.",
+    "answer_ar": "أيوه، للطلبات فوق ٣٠٠٠ جنيه من خلال valU أو كونتكت أو أمان أو سهولة، من ٦ إلى ٣٦ شهراً. تختار الجهة عند الدفع وتتم الموافقة من جانبهم. معظم العملاء يستخدمون التقسيط للأجهزة والإلكترونيات.",
+    "keywords": [
+     "instalment",
+     "valu",
+     "contact",
+     "aman",
+     "souhoola",
+     "months"
+    ],
+    "keywords_ar": [
+     "تقسيط",
+     "فاليو",
+     "كونتكت",
+     "أمان",
+     "سهولة"
+    ],
+    "intent": "payment"
+   },
+   {
+    "id": "FAQ-016",
+    "question": "Can I cancel my order?",
+    "question_ar": "أقدر ألغي الطلب؟",
+    "answer": "You can cancel free of charge any time before the order is dispatched, from the app under My Orders or by messaging us. After dispatch, cancellation is treated as a return: non-fresh items can be refused at the door, and fresh items are refunded if there is a quality issue.",
+    "answer_ar": "يمكنك الإلغاء مجاناً في أي وقت قبل خروج الطلب، من التطبيق في «طلباتي» أو بمراسلتنا. بعد خروج الطلب يُعامل الإلغاء كإرجاع: المنتجات غير الطازجة يمكن رفضها عند الباب، والمنتجات الطازجة تُرد مالياً في حالة وجود مشكلة في الجودة.",
+    "keywords": [
+     "cancel",
+     "cancellation",
+     "stop order"
+    ],
+    "keywords_ar": [
+     "الغاء",
+     "الغاء الطلب"
+    ],
+    "intent": "order_change"
+   },
+   {
+    "id": "FAQ-017",
+    "question": "An item is missing from my order. What do I do?",
+    "question_ar": "في حاجة ناقصة من الطلب، أعمل إيه؟",
+    "answer": "Tell us within 24 hours of delivery through chat or 16770 with your order number. We refund the item or send it with your next order, whichever you prefer. No photo is needed for missing items.",
+    "answer_ar": "أبلغنا خلال ٢٤ ساعة من التوصيل عبر الدردشة أو ١٦٧٧٠ مع رقم الطلب. نرد قيمة المنتج أو نرسله مع طلبك القادم، حسب ما تفضل. لا نطلب صورة للمنتجات الناقصة.",
+    "keywords": [
+     "missing item",
+     "not delivered",
+     "incomplete order"
+    ],
+    "keywords_ar": [
+     "منتج ناقص",
+     "طلب ناقص"
+    ],
+    "intent": "complaint"
+   },
+   {
+    "id": "FAQ-018",
+    "question": "What if an item I ordered is out of stock?",
+    "question_ar": "لو منتج طلبته خلص؟",
+    "answer": "We contact you before we pick the order and offer a substitute of equal or better value at the same price. If you decline, we remove the item and refund it. We never substitute without asking first.",
+    "answer_ar": "نتواصل معك قبل تجهيز الطلب ونعرض بديلاً بنفس القيمة أو أفضل وبنفس السعر. إذا رفضت، نحذف المنتج ونرد قيمته. لا نستبدل أي منتج بدون موافقتك.",
+    "keywords": [
+     "out of stock",
+     "unavailable",
+     "substitute",
+     "replacement"
+    ],
+    "keywords_ar": [
+     "خلص",
+     "غير متاح",
+     "بديل"
+    ],
+    "intent": "order_change"
+   },
+   {
+    "id": "FAQ-019",
+    "question": "Is there a minimum order value?",
+    "question_ar": "في حد أدنى للطلب؟",
+    "answer": "The minimum basket is EGP 150 excluding the delivery fee. There is no minimum for Click & Collect.",
+    "answer_ar": "الحد الأدنى للسلة ١٥٠ جنيهاً بدون رسوم التوصيل. لا يوجد حد أدنى للاستلام من الفرع.",
+    "keywords": [
+     "minimum order",
+     "minimum basket"
+    ],
+    "keywords_ar": [
+     "حد أدنى",
+     "أقل طلب"
+    ],
+    "intent": "order_info"
+   },
+   {
+    "id": "FAQ-020",
+    "question": "Do you send an invoice?",
+    "question_ar": "بتبعتوا فاتورة؟",
+    "answer": "Yes. A VAT invoice is e-mailed when the order is delivered and is also available in the app under My Orders. For a company invoice with your tax number, add it in the checkout notes or ask us before dispatch.",
+    "answer_ar": "أيوه. تُرسل فاتورة ضريبية بالبريد الإلكتروني عند التوصيل وتكون متاحة أيضاً في التطبيق في «طلباتي». للفاتورة باسم شركة مع الرقم الضريبي، أضفه في ملاحظات الدفع أو أخبرنا قبل خروج الطلب.",
+    "keywords": [
+     "invoice",
+     "receipt",
+     "vat",
+     "tax"
+    ],
+    "keywords_ar": [
+     "فاتورة",
+     "ضريبة",
+     "الرقم الضريبي"
+    ],
+    "intent": "order_info"
+   }
+  ]
+ },
+ {
+  "topic": "Returns",
+  "topic_ar": "الإرجاع والاسترداد",
+  "slug": "returns",
+  "items": [
+   {
+    "id": "FAQ-021",
+    "question": "What is your return policy?",
+    "question_ar": "سياسة الإرجاع إيه؟",
+    "answer": "Fresh food (produce, meat, fish, bakery, dairy) can be refused at the door or reported within 24 hours for a full refund. Packaged food, home care and beauty can be returned within 14 days unopened and unused. Appliances and electronics can be returned within 14 days in their original box, and carry the manufacturer's warranty after that. Full details are in the returns and refunds policy.",
+    "answer_ar": "المنتجات الطازجة (خضروات وفواكه ولحوم وأسماك ومخبوزات وألبان) يمكن رفضها عند الباب أو الإبلاغ عنها خلال ٢٤ ساعة لرد كامل. الأطعمة المعلبة ومنظفات المنزل ومستحضرات التجميل تُرجع خلال ١٤ يوماً غير مفتوحة وغير مستخدمة. الأجهزة والإلكترونيات تُرجع خلال ١٤ يوماً في عبوتها الأصلية، وبعد ذلك يسري ضمان المُصنّع. التفاصيل الكاملة في سياسة الإرجاع والاسترداد.",
+    "keywords": [
+     "return",
+     "returns",
+     "refund",
+     "policy"
+    ],
+    "keywords_ar": [
+     "ارجاع",
+     "استرداد",
+     "سياسة"
+    ],
+    "intent": "returns"
+   },
+   {
+    "id": "FAQ-022",
+    "question": "The fruit I received is not fresh. Can I get a refund?",
+    "question_ar": "الفاكهة اللي وصلتني مش طازة، أخد فلوسي؟",
+    "answer": "Yes. Send us a photo through chat within 24 hours of delivery with your order number and we refund the item in full — no need to return it. If more than a third of the order is affected we also waive the delivery fee.",
+    "answer_ar": "أيوه. أرسل لنا صورة على الدردشة خلال ٢٤ ساعة من التوصيل مع رقم الطلب ونرد قيمة المنتج كاملة — وليس عليك إرجاعه. إذا كان أكثر من ثلث الطلب متأثراً نتنازل أيضاً عن رسوم التوصيل.",
+    "keywords": [
+     "not fresh",
+     "spoiled",
+     "bad quality",
+     "rotten",
+     "refund"
+    ],
+    "keywords_ar": [
+     "مش طازة",
+     "تالف",
+     "جودة سيئة",
+     "فاسد"
+    ],
+    "intent": "complaint"
+   },
+   {
+    "id": "FAQ-023",
+    "question": "How long does a refund take?",
+    "question_ar": "الاسترداد بياخد قد إيه؟",
+    "answer": "Card refunds are issued within 48 hours of approval and appear on your statement in 5 to 14 working days depending on your bank. Wallet refunds take up to 3 working days. Cash-on-delivery orders are refunded as store credit immediately, or to a bank account or wallet within 5 to 7 working days on request.",
+    "answer_ar": "استرداد البطاقات يُنفذ خلال ٤٨ ساعة من الموافقة ويظهر في كشف الحساب في ٥ إلى ١٤ يوم عمل حسب البنك. استرداد المحافظ حتى ٣ أيام عمل. الطلبات المدفوعة نقداً تُرد كرصيد متجر فوراً، أو إلى حساب بنكي أو محفظة خلال ٥ إلى ٧ أيام عمل عند الطلب.",
+    "keywords": [
+     "refund time",
+     "how long refund",
+     "money back"
+    ],
+    "keywords_ar": [
+     "مدة الاسترداد",
+     "رجوع الفلوس"
+    ],
+    "intent": "returns"
+   },
+   {
+    "id": "FAQ-024",
+    "question": "Can I return opened skincare?",
+    "question_ar": "أقدر أرجع مستحضر تجميل مفتوح؟",
+    "answer": "Opened skincare and cosmetics cannot be returned for hygiene reasons. The exception is a product that is faulty, damaged, or past its expiry date on arrival — send us a photo and we refund or replace it.",
+    "answer_ar": "مستحضرات العناية والتجميل المفتوحة لا يمكن إرجاعها لأسباب صحية. الاستثناء هو المنتج المعيب أو التالف أو المنتهي الصلاحية عند الوصول — أرسل لنا صورة ونرد القيمة أو نستبدله.",
+    "keywords": [
+     "return skincare",
+     "opened cosmetics",
+     "hygiene"
+    ],
+    "keywords_ar": [
+     "ارجاع مستحضرات",
+     "مفتوح",
+     "صحي"
+    ],
+    "intent": "returns"
+   },
+   {
+    "id": "FAQ-025",
+    "question": "Which items cannot be returned?",
+    "question_ar": "إيه المنتجات اللي مش بترجع؟",
+    "answer": "Opened food and drink, opened skincare and cosmetics, items sold as clearance or last-day-of-shelf-life, gift cards, dispenser water deposits, and any product damaged by misuse after delivery.",
+    "answer_ar": "الأطعمة والمشروبات المفتوحة، مستحضرات العناية والتجميل المفتوحة، المنتجات المطروحة كتصفية أو آخر يوم صلاحية، كروت الهدايا، وديعة زجاجات المياه، وأي منتج تلف بسبب سوء الاستخدام بعد التوصيل.",
+    "keywords": [
+     "non-returnable",
+     "cannot return",
+     "exclusions"
+    ],
+    "keywords_ar": [
+     "لا يرد",
+     "مش بترجع",
+     "استثناءات"
+    ],
+    "intent": "returns"
+   }
+  ]
+ },
+ {
+  "topic": "Groceries & Pantry",
+  "topic_ar": "بقالة ومؤن",
+  "slug": "groceries-pantry",
+  "items": [
+   {
+    "id": "FAQ-026",
+    "question": "Which rice do you recommend for Egyptian rice dishes?",
+    "question_ar": "إيه الأرز المناسب للأرز المصري؟",
+    "answer": "Egyptian short-grain rice — it cooks soft and slightly sticky, which is what mahshi, roz bel laban and everyday Egyptian rice need. Use basmati instead when you want separate fluffy grains for biryani or kabsa.",
+    "answer_ar": "الأرز المصري قصير الحبة — يطلع طري ومتماسك قليلاً، وهو المطلوب للمحشي والرز باللبن والأرز اليومي. استخدم البسمتي إذا أردت حبوباً منفصلة ومفلفلة للبرياني أو الكبسة.",
+    "keywords": [
+     "rice",
+     "recommend",
+     "egyptian rice",
+     "basmati",
+     "mahshi"
+    ],
+    "keywords_ar": [
+     "أرز",
+     "توصية",
+     "أرز مصري",
+     "بسمتي",
+     "محشي"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-027",
+    "question": "Do you sell gluten-free products?",
+    "question_ar": "بتبيعوا منتجات خالية من الجلوتين؟",
+    "answer": "Some products are naturally gluten-free, such as rice and pulses, and their Dietary Tags column says so. We do not currently carry a dedicated gluten-free range of breads or pasta. Always check the pack label yourself before buying for a coeliac diet.",
+    "answer_ar": "بعض المنتجات خالية من الجلوتين بطبيعتها مثل الأرز والبقوليات، وهذا مذكور في بيانات المنتج. لا نوفر حالياً قسماً مخصصاً للخبز أو المكرونة الخالية من الجلوتين. راجع دائماً ملصق العبوة بنفسك إذا كان النظام الغذائي خاصاً بحساسية الجلوتين.",
+    "keywords": [
+     "gluten free",
+     "coeliac",
+     "allergy",
+     "diet"
+    ],
+    "keywords_ar": [
+     "خالي من الجلوتين",
+     "حساسية",
+     "دايت"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-028",
+    "question": "What is the difference between the cooking oils you sell?",
+    "question_ar": "إيه الفرق بين أنواع الزيت عندكم؟",
+    "answer": "Sunflower and corn oil are neutral and stable at high heat, so they suit deep frying and baking. Extra virgin olive oil has a strong peppery flavour and a lower smoke point — use it raw on salads and vegetables rather than for frying. Vegetable ghee (samna) is used where a rich aroma is wanted, mainly in rice and pastry.",
+    "answer_ar": "زيت عباد الشمس وزيت الذرة محايدان وثابتان على الحرارة العالية فيصلحان للقلي والخبز. زيت الزيتون البكر له طعم حريف قوي ودرجة احتراق أقل — استخدمه نيئاً على السلطة والخضار لا للقلي. السمنة النباتية تُستخدم عند الحاجة لرائحة غنية، خاصة في الأرز والمعجنات.",
+    "keywords": [
+     "oil",
+     "cooking oil",
+     "olive oil",
+     "frying",
+     "difference"
+    ],
+    "keywords_ar": [
+     "زيت",
+     "زيت الطهي",
+     "زيت الزيتون",
+     "قلي",
+     "الفرق"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-029",
+    "question": "Do you have a Ramadan pantry bundle?",
+    "question_ar": "عندكم عرض مؤن رمضان؟",
+    "answer": "Yes, during Ramadan we sell a Ramadan Pantry Box covering rice, pasta, oil, sugar, tomato paste, pulses, tea and dates at a fixed bundle price. Check the offers file or the campaign banner for the current price and dates.",
+    "answer_ar": "أيوه، في رمضان نوفر «كرتونة مؤن رمضان» تشمل الأرز والمكرونة والزيت والسكر والصلصة والبقوليات والشاي والبلح بسعر ثابت للعرض. راجع ملف العروض أو بانر الحملة للسعر والتواريخ الحالية.",
+    "keywords": [
+     "ramadan",
+     "bundle",
+     "box",
+     "pantry",
+     "offer"
+    ],
+    "keywords_ar": [
+     "رمضان",
+     "كرتونة",
+     "عرض",
+     "مؤن"
+    ],
+    "intent": "offers"
+   }
+  ]
+ },
+ {
+  "topic": "Fresh Produce",
+  "topic_ar": "خضروات وفواكه",
+  "slug": "fresh-produce",
+  "items": [
+   {
+    "id": "FAQ-030",
+    "question": "How fresh is your produce?",
+    "question_ar": "الخضروات والفواكه طازة قد إيه؟",
+    "answer": "Produce is picked from our suppliers each morning and delivered the same day it is picked for the store. Nothing is held in produce stock overnight for sale the next day. If anything arrives below standard, report it within 24 hours for a full refund.",
+    "answer_ar": "الخضروات والفواكه تُجمع من الموردين كل صباح وتُسلّم للفرع في نفس يوم الجمع. لا نحتفظ بمخزون خضروات ليوم آخر للبيع. إذا وصل أي شيء أقل من المستوى، أبلغنا خلال ٢٤ ساعة لرد كامل.",
+    "keywords": [
+     "fresh",
+     "produce",
+     "quality",
+     "picked"
+    ],
+    "keywords_ar": [
+     "طازة",
+     "خضروات",
+     "جودة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-031",
+    "question": "Are weights exact for fruit and vegetables?",
+    "question_ar": "الأوزان دقيقة في الخضار والفاكهة؟",
+    "answer": "Weight-based items may vary up to 5% either way from the listed weight, which is normal for fresh produce. You are charged the listed price, not the actual weight, so a small variance never costs you more.",
+    "answer_ar": "المنتجات المُباعة بالوزن قد تختلف حتى ٥٪ زيادة أو نقصاً عن الوزن المذكور، وهذا طبيعي في المنتجات الطازجة. تُحاسب على السعر المعلن لا على الوزن الفعلي، فالفرق البسيط لا يزيد ما تدفعه.",
+    "keywords": [
+     "weight",
+     "kilo",
+     "variance",
+     "exact"
+    ],
+    "keywords_ar": [
+     "وزن",
+     "كيلو",
+     "فرق",
+     "دقيق"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-032",
+    "question": "Are Egyptian mangoes available all year?",
+    "question_ar": "المانجو المصري متاح طول السنة؟",
+    "answer": "No. Egyptian mangoes are seasonal and available roughly from June to September. Outside the season the listing is hidden rather than filled with imported fruit.",
+    "answer_ar": "لا. المانجو المصري موسمي ومتاح تقريباً من يونيو إلى سبتمبر. خارج الموسم نخفي المنتج ولا نستبدله بمانجو مستورد.",
+    "keywords": [
+     "mango",
+     "season",
+     "seasonal",
+     "available"
+    ],
+    "keywords_ar": [
+     "مانجو",
+     "موسم",
+     "متاح"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-033",
+    "question": "Do you sell organic produce?",
+    "question_ar": "عندكم منتجات أورجانيك؟",
+    "answer": "We do not currently have a certified organic produce range. Our produce is local and picked daily, but it is not certified organic and we do not describe it that way.",
+    "answer_ar": "لا نوفر حالياً خطاً معتمداً من المنتجات الأورجانيك. منتجاتنا محلية وتُجمع يومياً، لكنها غير معتمدة كأورجانيك ولا نصفها بذلك.",
+    "keywords": [
+     "organic",
+     "certified",
+     "bio"
+    ],
+    "keywords_ar": [
+     "أورجانيك",
+     "عضوي",
+     "معتمد"
+    ],
+    "intent": "product_info"
+   }
+  ]
+ },
+ {
+  "topic": "Meat & Seafood",
+  "topic_ar": "لحوم وأسماك",
+  "slug": "meat-seafood",
+  "items": [
+   {
+    "id": "FAQ-034",
+    "question": "Is your meat halal?",
+    "question_ar": "اللحوم عندكم حلال؟",
+    "answer": "Yes. Every animal product we sell is halal, including the butchery counter, poultry, cold cuts and frozen meat lines.",
+    "answer_ar": "أيوه. كل المنتجات الحيوانية التي نبيعها حلال، بما في ذلك قسم الجزارة والدواجن واللانشون واللحوم المجمدة.",
+    "keywords": [
+     "halal",
+     "meat",
+     "slaughter"
+    ],
+    "keywords_ar": [
+     "حلال",
+     "لحوم",
+     "ذبح"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-035",
+    "question": "How is fresh meat packed for delivery?",
+    "question_ar": "اللحمة الطازة بتتغلف إزاي للتوصيل؟",
+    "answer": "Meat and fish are vacuum-packed or sealed in leak-proof trays, then carried in an insulated cooler bag with ice packs. The cold chain is kept between 0 and 4°C from the counter to your door.",
+    "answer_ar": "اللحوم والأسماك تُغلف بالتفريغ الهوائي أو في صواني محكمة لا ترشح، ثم تُحمل في شنطة معزولة مع مثلجات. سلسلة التبريد محفوظة بين صفر و٤ درجات من الكاونتر لباب بيتك.",
+    "keywords": [
+     "packing",
+     "cold chain",
+     "packaging",
+     "meat",
+     "fish"
+    ],
+    "keywords_ar": [
+     "تغليف",
+     "سلسلة تبريد",
+     "لحوم",
+     "أسماك"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-036",
+    "question": "Can I ask the butcher to cut the meat a certain way?",
+    "question_ar": "أقدر أطلب تقطيع معين للحمة؟",
+    "answer": "Yes. Add your instruction in the order notes — cubes, thin slices, minced once or twice, bone in or out — and the butchery counter follows it. Requests that change the weight bracket may adjust the price slightly.",
+    "answer_ar": "أيوه. أضف طلبك في ملاحظات الطلب — مكعبات، شرائح رقيقة، مفروم مرة أو مرتين، بالعظم أو بدونه — وقسم الجزارة ينفذه. الطلبات التي تغير فئة الوزن قد تعدل السعر قليلاً.",
+    "keywords": [
+     "butcher",
+     "cut",
+     "custom",
+     "minced",
+     "notes"
+    ],
+    "keywords_ar": [
+     "جزار",
+     "تقطيع",
+     "مفروم",
+     "ملاحظات"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-037",
+    "question": "Which fish do you recommend for someone who doesn't like a fishy taste?",
+    "question_ar": "إيه السمك المناسب لحد مش بيحب طعم السمك؟",
+    "answer": "Basa fillet — it is boneless, white and very mild, which is why it usually works with children. Sea bass is the next step up: firm and still mild. Avoid sardines and smoked mackerel, which are both strongly flavoured.",
+    "answer_ar": "فيليه الباسا — بدون عظم، أبيض وطعمه خفيف جداً، ولذلك يقبله الأطفال عادة. القاروص هو الخيار التالي: متماسك وطعمه خفيف أيضاً. تجنب السردين والرنجة المدخنة فطعمهما قوي.",
+    "keywords": [
+     "fish",
+     "mild",
+     "recommend",
+     "kids",
+     "basa"
+    ],
+    "keywords_ar": [
+     "سمك",
+     "خفيف",
+     "توصية",
+     "أطفال",
+     "باسا"
+    ],
+    "intent": "product_recommendation"
+   }
+  ]
+ },
+ {
+  "topic": "Dairy & Bakery",
+  "topic_ar": "ألبان ومخبوزات",
+  "slug": "dairy-bakery",
+  "items": [
+   {
+    "id": "FAQ-038",
+    "question": "How long does fresh milk last?",
+    "question_ar": "اللبن الطازة بيقعد قد إيه؟",
+    "answer": "Pasteurised fresh milk keeps about 5 days refrigerated at 2–5°C, and the printed date on the carton is the one that counts. Long-life UHT milk keeps around 6 months unopened, then 3 days once opened and refrigerated.",
+    "answer_ar": "اللبن الطازج المبستر يبقى حوالي ٥ أيام في الثلاجة على ٢–٥ درجة، والتاريخ المطبوع على العبوة هو المعتبر. اللبن طويل الأجل يبقى حوالي ٦ أشهر قبل الفتح، ثم ٣ أيام بعد الفتح والتبريد.",
+    "keywords": [
+     "milk",
+     "shelf life",
+     "expiry",
+     "how long"
+    ],
+    "keywords_ar": [
+     "لبن",
+     "صلاحية",
+     "مدة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-039",
+    "question": "What time is the bakery bread baked?",
+    "question_ar": "العيش بيتخبز امتى؟",
+    "answer": "The in-store bakery bakes from 06:00 through the day, with the largest batches at 06:00, 12:00 and 18:00. Bread ordered for delivery is picked from the batch closest to your slot.",
+    "answer_ar": "الفرن داخل الفرع يخبز من ٦ صباحاً على مدار اليوم، وأكبر الدفعات في ٦ صباحاً و١٢ ظهراً و٦ مساءً. العيش المطلوب للتوصيل يُجمع من الدفعة الأقرب لفترة توصيلك.",
+    "keywords": [
+     "bakery",
+     "bread",
+     "baked",
+     "fresh",
+     "time"
+    ],
+    "keywords_ar": [
+     "الفرن",
+     "عيش",
+     "خبز",
+     "طازة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-040",
+    "question": "What is the difference between Domiati, feta and roumy cheese?",
+    "question_ar": "إيه الفرق بين الجبنة الدمياطي والفيتا والرومي؟",
+    "answer": "Domiati is soft, salted and kept in brine — the classic Egyptian breakfast cheese. Feta is firmer and saltier and holds its shape cubed in salad. Roumy is hard and aged, sharp and salty, grated over pasta or sliced thin in sandwiches.",
+    "answer_ar": "الدمياطي جبنة طرية مملحة محفوظة في ماء مملح — جبنة الفطار المصرية التقليدية. الفيتا أكثر تماسكاً وملوحة وتحتفظ بشكلها مكعبات في السلطة. الرومي جبنة صلبة قديمة حادة ومالحة، تُبرش على المكرونة أو تُقطع رقيقة للسندوتشات.",
+    "keywords": [
+     "cheese",
+     "domiati",
+     "feta",
+     "roumy",
+     "difference"
+    ],
+    "keywords_ar": [
+     "جبنة",
+     "دمياطي",
+     "فيتا",
+     "رومي",
+     "الفرق"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-041",
+    "question": "Do you sell lactose-free milk?",
+    "question_ar": "بتبيعوا لبن خالي من اللاكتوز؟",
+    "answer": "We do not carry a lactose-free milk line at the moment. Some customers use the long-life UHT range or plant-based drinks where available, but neither is lactose-free by definition. Check the label before buying for a medical reason.",
+    "answer_ar": "لا نوفر حالياً لبناً خالياً من اللاكتوز. بعض العملاء يستخدمون اللبن طويل الأجل أو المشروبات النباتية عند توفرها، لكن أي منهما ليس خالياً من اللاكتوز بالضرورة. راجع الملصق قبل الشراء لسبب طبي.",
+    "keywords": [
+     "lactose free",
+     "intolerance",
+     "milk",
+     "dairy free"
+    ],
+    "keywords_ar": [
+     "خالي من اللاكتوز",
+     "حساسية اللاكتوز"
+    ],
+    "intent": "product_info"
+   }
+  ]
+ },
+ {
+  "topic": "Beverages",
+  "topic_ar": "مشروبات",
+  "slug": "beverages",
+  "items": [
+   {
+    "id": "FAQ-042",
+    "question": "How does the 19L water dispenser refill work?",
+    "question_ar": "نظام مياه ١٩ لتر بيشتغل إزاي؟",
+    "answer": "Order the 19L refill and hand the empty bottle to the driver at delivery. The first bottle carries a returnable deposit of EGP 150, refunded when you return it for good. Refills are delivered on any standard slot.",
+    "answer_ar": "اذكر إعادة تعبئة ١٩ لتر في الطلب وسلّم الزجاجة الفارغة للمندوب عند التوصيل. الزجاجة الأولى عليها وديعة قابلة للإرجاع ١٥٠ جنيهاً تُرد عند إعادتها نهائياً. إعادة التعبئة تُوصّل في أي فترة عادية.",
+    "keywords": [
+     "water",
+     "19l",
+     "dispenser",
+     "refill",
+     "deposit"
+    ],
+    "keywords_ar": [
+     "مياه",
+     "١٩ لتر",
+     "مبرد",
+     "إعادة تعبئة",
+     "وديعة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-043",
+    "question": "Which coffee do you recommend for an espresso machine?",
+    "question_ar": "إيه القهوة المناسبة لماكينة الإسبريسو؟",
+    "answer": "The 1kg espresso bean blend — it is a dark roast built for pump machines. Ask at the coffee counter to have it ground to your machine's setting, or keep it whole and grind fresh. Do not use Turkish coffee in an espresso machine; the grind is far too fine.",
+    "answer_ar": "خلطة حبوب الإسبريسو ١ كجم — تحميص غامق مخصص لماكينات المضخة. اطلب طحنها في كاونتر القهوة على درجة ماكينتك، أو احتفظ بها كاملة واطحنها طازجة. لا تستخدم القهوة التركي في ماكينة الإسبريسو لأن طحنها ناعم جداً.",
+    "keywords": [
+     "coffee",
+     "espresso",
+     "beans",
+     "grind",
+     "machine"
+    ],
+    "keywords_ar": [
+     "قهوة",
+     "إسبريسو",
+     "حبوب",
+     "طحن",
+     "ماكينة"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-044",
+    "question": "Do you sell sugar-free drinks?",
+    "question_ar": "عندكم مشروبات بدون سكر؟",
+    "answer": "Yes — sparkling mineral water, plain coconut water and green tea carry no added sugar, and their Dietary Tags say so. Diet soft drinks are stocked in stores; availability online varies, so check the product page.",
+    "answer_ar": "أيوه — المياه المعدنية الفوارة وماء جوز الهند السادة والشاي الأخضر بدون سكر مضاف، وهذا مذكور في بيانات المنتج. المشروبات الغازية الدايت متاحة في الفروع، وتوفرها أونلاين يختلف فراجع صفحة المنتج.",
+    "keywords": [
+     "sugar free",
+     "diet",
+     "no sugar",
+     "drinks"
+    ],
+    "keywords_ar": [
+     "بدون سكر",
+     "دايت",
+     "مشروبات"
+    ],
+    "intent": "product_info"
+   }
+  ]
+ },
+ {
+  "topic": "Skincare & Beauty",
+  "topic_ar": "العناية بالبشرة",
+  "slug": "skincare-beauty",
+  "items": [
+   {
+    "id": "FAQ-045",
+    "question": "I have oily skin. What do you recommend?",
+    "question_ar": "بشرتي دهنية، بتنصحوني بإيه؟",
+    "answer": "A routine of three: the salicylic acid cleanser, the niacinamide 10% serum for oil and pore appearance, and the SPF50+ fluid sunscreen, which is light and does not add shine. Start the salicylic cleanser every other day. This is general guidance, not medical advice.",
+    "answer_ar": "روتين من ثلاث خطوات: الغسول بحمض الساليسيليك، وسيروم النياسيناميد ١٠٪ للزيت ومظهر المسام، وواقي الشمس السائل SPF50+ لأنه خفيف ولا يزيد اللمعان. ابدأ الغسول يوماً بعد يوم. هذه نصيحة عامة وليست استشارة طبية.",
+    "keywords": [
+     "oily skin",
+     "routine",
+     "recommend",
+     "niacinamide",
+     "acne"
+    ],
+    "keywords_ar": [
+     "بشرة دهنية",
+     "روتين",
+     "توصية",
+     "نياسيناميد",
+     "حبوب"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-046",
+    "question": "Which sunscreen should I pick?",
+    "question_ar": "أختار أنهي واقي شمس؟",
+    "answer": "The SPF50+ fluid if you want no white cast under makeup or on darker skin tones, and the tinted SPF50 if you also want light coverage that evens out redness. Both need reapplying every two hours outdoors.",
+    "answer_ar": "السائل SPF50+ إذا كنت لا تريد طبقة بيضاء تحت المكياج أو على البشرة الغامقة، والملون SPF50 إذا أردت أيضاً تغطية خفيفة توحد الاحمرار. كلاهما يحتاج إعادة الوضع كل ساعتين في الخارج.",
+    "keywords": [
+     "sunscreen",
+     "spf",
+     "tinted",
+     "white cast",
+     "recommend"
+    ],
+    "keywords_ar": [
+     "واقي شمس",
+     "معامل حماية",
+     "ملون",
+     "توصية"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-047",
+    "question": "Can I use vitamin C and retinol together?",
+    "question_ar": "أستخدم فيتامين سي والريتينول مع بعض؟",
+    "answer": "Most people separate them: vitamin C in the morning under sunscreen, retinol at night. Using both at once can irritate the skin. If you have a skin condition or are pregnant, speak to a dermatologist before starting retinol at all.",
+    "answer_ar": "معظم الناس يفصلون بينهما: فيتامين سي صباحاً تحت واقي الشمس، والريتينول ليلاً. استخدامهما معاً قد يهيج البشرة. إذا كان لديك حالة جلدية أو كنت حاملاً، استشر طبيب جلدية قبل البدء بالريتينول أساساً.",
+    "keywords": [
+     "vitamin c",
+     "retinol",
+     "together",
+     "routine",
+     "irritation"
+    ],
+    "keywords_ar": [
+     "فيتامين سي",
+     "ريتينول",
+     "مع بعض",
+     "روتين",
+     "تهيج"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-048",
+    "question": "Are your beauty products original?",
+    "question_ar": "منتجات التجميل عندكم أصلية؟",
+    "answer": "Yes. We buy only from the brand's authorised distributor in Egypt or from the brand directly, and every batch arrives with its import documentation. If you ever doubt a unit you received, send us the batch code and we will trace it.",
+    "answer_ar": "أيوه. نشتري فقط من الموزع المعتمد للماركة في مصر أو من الماركة مباشرة، وكل دفعة تصل بمستندات الاستيراد. إذا شككت في أي عبوة وصلتك، أرسل لنا رقم الدفعة وسنتتبعه.",
+    "keywords": [
+     "original",
+     "authentic",
+     "fake",
+     "genuine",
+     "brand"
+    ],
+    "keywords_ar": [
+     "أصلي",
+     "تقليد",
+     "ماركة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-049",
+    "question": "How many shades does the matte lipstick come in?",
+    "question_ar": "أحمر الشفاه المطفي متاح بكام درجة؟",
+    "answer": "Eight shades are stocked in store. Online only the shades currently in stock appear, so the product page is the accurate list at any moment.",
+    "answer_ar": "ثمانية درجات متاحة في الفروع. أونلاين تظهر فقط الدرجات المتوفرة حالياً، فصفحة المنتج هي القائمة الدقيقة في أي وقت.",
+    "keywords": [
+     "shades",
+     "lipstick",
+     "colours",
+     "stock"
+    ],
+    "keywords_ar": [
+     "درجات",
+     "أحمر شفاه",
+     "ألوان",
+     "متاح"
+    ],
+    "intent": "product_info"
+   }
+  ]
+ },
+ {
+  "topic": "Home Care",
+  "topic_ar": "منظفات ومستلزمات",
+  "slug": "home-care",
+  "items": [
+   {
+    "id": "FAQ-050",
+    "question": "Which detergent is right for my washing machine?",
+    "question_ar": "أنهي منظف مناسب لغسالتي؟",
+    "answer": "Use automatic laundry powder or liquid detergent for automatic machines — both are low-foam. Liquid is the better choice for cold washes and dark fabrics because it leaves no white residue. Never use hand-wash powder in an automatic machine.",
+    "answer_ar": "استخدم مسحوق الغسيل الأوتوماتيك أو السائل للغسالات الأوتوماتيك — كلاهما قليل الرغوة. السائل أفضل للغسيل البارد والملابس الغامقة لأنه لا يترك أثراً أبيض. لا تستخدم مسحوق الغسيل اليدوي في غسالة أوتوماتيك أبداً.",
+    "keywords": [
+     "detergent",
+     "washing machine",
+     "powder",
+     "liquid",
+     "automatic"
+    ],
+    "keywords_ar": [
+     "منظف",
+     "غسالة",
+     "مسحوق",
+     "سائل",
+     "أوتوماتيك"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-051",
+    "question": "Can I mix bleach with other cleaners?",
+    "question_ar": "أقدر أخلط الكلور بمنظفات تانية؟",
+    "answer": "No. Never mix bleach with any acidic cleaner (including limescale and bathroom cleaners) or with ammonia-based products — the mixture releases toxic gas. Use one product, rinse, ventilate, then use the other if you must.",
+    "answer_ar": "لا. لا تخلط الكلور أبداً مع أي منظف حمضي (بما في ذلك مزيلات الترسبات ومنظفات الحمام) أو مع منتجات تحتوي نشادر — الخليط يُنتج غازاً سامًا. استخدم منتجاً واحداً، اشطف، هوِّ المكان، ثم استخدم الآخر إذا كان لا بد.",
+    "keywords": [
+     "bleach",
+     "mix",
+     "dangerous",
+     "ammonia",
+     "safety"
+    ],
+    "keywords_ar": [
+     "كلور",
+     "خلط",
+     "خطر",
+     "نشادر",
+     "سلامة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-052",
+    "question": "Do you deliver bulky cleaning packs?",
+    "question_ar": "بتوصلوا عبوات المنظفات الكبيرة؟",
+    "answer": "Yes, including 5kg laundry powder and 3L detergent, on any standard delivery slot with no extra handling fee. Only appliances carry the separate EGP 250 large-item fee.",
+    "answer_ar": "أيوه، بما في ذلك مسحوق الغسيل ٥ كجم والسائل ٣ لتر، في أي فترة توصيل عادية وبدون رسوم مناولة إضافية. الأجهزة فقط هي التي عليها رسوم البنود الكبيرة ٢٥٠ جنيهاً.",
+    "keywords": [
+     "bulky",
+     "heavy",
+     "large pack",
+     "delivery",
+     "fee"
+    ],
+    "keywords_ar": [
+     "عبوات كبيرة",
+     "ثقيل",
+     "توصيل",
+     "رسوم"
+    ],
+    "intent": "delivery"
+   }
+  ]
+ },
+ {
+  "topic": "Appliances",
+  "topic_ar": "الأجهزة المنزلية",
+  "slug": "appliances",
+  "items": [
+   {
+    "id": "FAQ-053",
+    "question": "What warranty comes with appliances?",
+    "question_ar": "الأجهزة عليها ضمان قد إيه؟",
+    "answer": "Warranty is the manufacturer's and is stated on each product record — typically 2 years on the appliance and 5 years on compressors for fridges, freezers and air conditioners. Keep the invoice; it is the warranty document. Warranty claims go through the brand's service centre and we help you open the ticket.",
+    "answer_ar": "الضمان من المُصنّع ومذكور في بيانات كل منتج — عادة سنتان على الجهاز و٥ سنوات على الكمبروسر للثلاجات والفريزرات والتكييفات. احتفظ بالفاتورة فهي مستند الضمان. مطالبات الضمان تمر من خلال مركز خدمة الماركة ونساعدك في فتح الطلب.",
+    "keywords": [
+     "warranty",
+     "guarantee",
+     "appliance",
+     "years",
+     "service"
+    ],
+    "keywords_ar": [
+     "ضمان",
+     "أجهزة",
+     "سنوات",
+     "خدمة"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-054",
+    "question": "Is appliance installation free?",
+    "question_ar": "تركيب الأجهزة مجاني؟",
+    "answer": "Delivery of a large appliance is EGP 250 flat and includes carry-in and levelling, plus water and drain connection for washing machines and dishwashers. Installation of split air conditioners and electric water heaters is NOT included and is quoted separately by the technician.",
+    "answer_ar": "توصيل الأجهزة الكبيرة ٢٥٠ جنيهاً ثابتة ويشمل الإدخال للمنزل والتسوية، وتوصيل المياه والصرف للغسالات وغسالات الأطباق. تركيب تكييفات السبليت وسخانات المياه الكهربائية غير مشمول ويُحدد سعره منفصلاً من الفني.",
+    "keywords": [
+     "installation",
+     "install",
+     "free",
+     "ac",
+     "water heater",
+     "fee"
+    ],
+    "keywords_ar": [
+     "تركيب",
+     "مجاني",
+     "تكييف",
+     "سخان",
+     "رسوم"
+    ],
+    "intent": "product_info"
+   },
+   {
+    "id": "FAQ-055",
+    "question": "Which fridge size should I buy for a family of four?",
+    "question_ar": "أنهي مقاس ثلاجة يناسب أسرة من ٤ أفراد؟",
+    "answer": "A 16 ft³ two-door no-frost fridge is the usual fit for four people who cook at home most days. Go larger only if you shop weekly in bulk or keep a lot of frozen food — in which case a separate deep freezer is often better value than a bigger fridge.",
+    "answer_ar": "ثلاجة ١٦ قدم بابين نوفروست هي المقاس المعتاد لأربعة أفراد يطبخون في المنزل معظم الأيام. اختر أكبر فقط إذا كنت تشتري أسبوعياً بكميات أو تحفظ كثيراً من المجمدات — وفي هذه الحالة الديب فريزر المنفصل غالباً أفضل قيمة من ثلاجة أكبر.",
+    "keywords": [
+     "fridge",
+     "size",
+     "family",
+     "recommend",
+     "16ft"
+    ],
+    "keywords_ar": [
+     "ثلاجة",
+     "مقاس",
+     "أسرة",
+     "توصية"
+    ],
+    "intent": "product_recommendation"
+   },
+   {
+    "id": "FAQ-056",
+    "question": "Can I return an appliance if I change my mind?",
+    "question_ar": "أقدر أرجع جهاز لو غيرت رأيي؟",
+    "answer": "Yes, within 14 days, unused and in its original box with all accessories and the invoice. Once an AC unit or water heater has been installed it cannot be returned as a change of mind, only as a fault. Collection of a large appliance return is charged at EGP 250.",
+    "answer_ar": "أيوه، خلال ١٤ يوماً، غير مستخدم وفي عبوته الأصلية مع كل الملحقات والفاتورة. بعد تركيب التكييف أو السخان لا يمكن إرجاعه لتغيير الرأي، فقط في حالة العيب. سحب الجهاز الكبير للإرجاع يُحسب بـ ٢٥٠ جنيهاً.",
+    "keywords": [
+     "return appliance",
+     "change mind",
+     "14 days",
+     "box"
+    ],
+    "keywords_ar": [
+     "ارجاع جهاز",
+     "تغيير الرأي",
+     "١٤ يوم"
+    ],
+    "intent": "returns"
+   },
+   {
+    "id": "FAQ-057",
+    "question": "My appliance stopped working. What do I do?",
+    "question_ar": "الجهاز وقف، أعمل إيه؟",
+    "answer": "Send us the invoice number and a short description through chat or call 16770. If the fault appears within 14 days of delivery we replace the unit. After that we open a warranty ticket with the brand's service centre on your behalf and follow it until it is closed.",
+    "answer_ar": "أرسل لنا رقم الفاتورة ووصفاً مختصراً على الدردشة أو اتصل بـ ١٦٧٧٠. إذا ظهر العيب خلال ١٤ يوماً من التوصيل نستبدل الجهاز. بعد ذلك نفتح طلب ضمان لدى مركز خدمة الماركة نيابة عنك ونتابعه حتى الإغلاق.",
+    "keywords": [
+     "broken",
+     "fault",
+     "not working",
+     "warranty",
+     "repair"
+    ],
+    "keywords_ar": [
+     "عاطل",
+     "عيب",
+     "مش شغال",
+     "ضمان",
+     "تصليح"
+    ],
+    "intent": "complaint"
+   }
+  ]
+ },
+ {
+  "topic": "Offers",
+  "topic_ar": "العروض",
+  "slug": "offers",
+  "items": [
+   {
+    "id": "FAQ-058",
+    "question": "Where can I see current offers?",
+    "question_ar": "أشوف العروض الحالية فين؟",
+    "answer": "The Offers tab on the website and app always shows what is live now. Weekly offers change every Thursday at 00:01. Ask us in chat and we can check whether a specific product is on offer today.",
+    "answer_ar": "قسم «العروض» على الموقع والتطبيق يعرض دائماً ما هو متاح الآن. العروض الأسبوعية تتغير كل خميس الساعة ١٢:٠١ صباحاً. اسألنا على الدردشة ويمكننا التحقق من وجود عرض على منتج معين اليوم.",
+    "keywords": [
+     "offers",
+     "deals",
+     "discounts",
+     "promotions",
+     "current"
+    ],
+    "keywords_ar": [
+     "عروض",
+     "خصومات",
+     "تخفيضات",
+     "الحالية"
+    ],
+    "intent": "offers"
+   },
+   {
+    "id": "FAQ-059",
+    "question": "Can I use more than one promo code?",
+    "question_ar": "أقدر أستخدم أكتر من كود خصم؟",
+    "answer": "Only one promo code per order. Promo codes do not stack with each other, but they do combine with Nile Points redemption and with tier free-delivery benefits unless the campaign terms say otherwise.",
+    "answer_ar": "كود خصم واحد فقط لكل طلب. أكواد الخصم لا تُجمع مع بعضها، لكنها تُجمع مع استبدال نقاط النيل ومع مزايا التوصيل المجاني للمستوى، إلا إذا نصت شروط الحملة على غير ذلك.",
+    "keywords": [
+     "promo code",
+     "coupon",
+     "stack",
+     "combine",
+     "discount"
+    ],
+    "keywords_ar": [
+     "كود خصم",
+     "كوبون",
+     "جمع",
+     "خصم"
+    ],
+    "intent": "offers"
+   }
+  ]
+ },
+ {
+  "topic": "Loyalty",
+  "topic_ar": "برنامج الولاء",
+  "slug": "loyalty",
+  "items": [
+   {
+    "id": "FAQ-060",
+    "question": "How do Nile Points work?",
+    "question_ar": "نقاط النيل بتشتغل إزاي؟",
+    "answer": "You earn one point per EGP 10 spent, and 100 points equal EGP 10 off. Points post 24 hours after delivery and expire 12 months after they are earned. You do not earn points on gift cards, water deposits, delivery fees or instalment interest.",
+    "answer_ar": "تكسب نقطة لكل ١٠ جنيهات، و١٠٠ نقطة تساوي ١٠ جنيهات خصم. النقاط تُضاف بعد ٢٤ ساعة من التوصيل وتنتهي بعد ١٢ شهراً من كسبها. لا تُكتسب نقاط على كروت الهدايا أو وديعة المياه أو رسوم التوصيل أو فوائد التقسيط.",
+    "keywords": [
+     "points",
+     "loyalty",
+     "nile points",
+     "earn",
+     "redeem"
+    ],
+    "keywords_ar": [
+     "نقاط",
+     "ولاء",
+     "نقاط النيل",
+     "كسب",
+     "استبدال"
+    ],
+    "intent": "loyalty"
+   },
+   {
+    "id": "FAQ-061",
+    "question": "What are the loyalty tiers?",
+    "question_ar": "إيه مستويات برنامج الولاء؟",
+    "answer": "Blue up to EGP 14,999 rolling annual spend, Silver from EGP 15,000 with free next-day delivery, Gold from EGP 40,000 with free same-day delivery and priority queue, and Platinum from EGP 100,000 with free Express and a dedicated care line. Tiers are reviewed monthly on a rolling 12-month spend.",
+    "answer_ar": "أزرق حتى ١٤٩٩٩ جنيهاً من الإنفاق السنوي المتجدد، فضي من ١٥٠٠٠ جنيه مع توصيل الغد مجاناً، ذهبي من ٤٠٠٠٠ جنيه مع توصيل نفس اليوم مجاناً وأولوية في الانتظار، وبلاتيني من ١٠٠٠٠٠ جنيه مع التوصيل السريع مجاناً وخط خدمة مخصص. تُراجع المستويات شهرياً على إنفاق ١٢ شهراً متجدد.",
+    "keywords": [
+     "tiers",
+     "silver",
+     "gold",
+     "platinum",
+     "benefits"
+    ],
+    "keywords_ar": [
+     "مستويات",
+     "فضي",
+     "ذهبي",
+     "بلاتيني",
+     "مزايا"
+    ],
+    "intent": "loyalty"
+   },
+   {
+    "id": "FAQ-062",
+    "question": "How do I join the loyalty programme?",
+    "question_ar": "أشترك في برنامج الولاء إزاي؟",
+    "answer": "It is automatic and free — any account with a verified Egyptian mobile number is enrolled at Blue tier from the first order. There is no card to carry.",
+    "answer_ar": "الاشتراك تلقائي ومجاني — أي حساب برقم موبايل مصري مُوثق يُسجل في المستوى الأزرق من أول طلب. لا يوجد كارت تحمله.",
+    "keywords": [
+     "join",
+     "enrol",
+     "sign up",
+     "loyalty",
+     "free"
+    ],
+    "keywords_ar": [
+     "اشتراك",
+     "تسجيل",
+     "ولاء",
+     "مجاني"
+    ],
+    "intent": "loyalty"
+   }
+  ]
+ },
+ {
+  "topic": "Account",
+  "topic_ar": "الحساب",
+  "slug": "account",
+  "items": [
+   {
+    "id": "FAQ-063",
+    "question": "How do I create an account?",
+    "question_ar": "أعمل حساب إزاي؟",
+    "answer": "Enter your mobile number on the website or app and confirm the OTP we send. Adding a name and an address makes checkout faster, but the phone number is the account.",
+    "answer_ar": "أدخل رقم موبايلك على الموقع أو التطبيق وأكد رمز التحقق المُرسل. إضافة الاسم والعنوان تجعل الدفع أسرع، لكن رقم الموبايل هو الحساب.",
+    "keywords": [
+     "account",
+     "register",
+     "sign up",
+     "otp"
+    ],
+    "keywords_ar": [
+     "حساب",
+     "تسجيل",
+     "رمز تحقق"
+    ],
+    "intent": "account"
+   },
+   {
+    "id": "FAQ-064",
+    "question": "How do I delete my account and data?",
+    "question_ar": "أحذف حسابي وبياناتي إزاي؟",
+    "answer": "Ask us in chat or e-mail care@nilemart.com.eg from the account's e-mail address. We confirm within 48 hours and delete personal data within 30 days, keeping only what tax law requires us to keep on invoices.",
+    "answer_ar": "اطلب منا على الدردشة أو أرسل بريداً إلى care@nilemart.com.eg من بريد الحساب. نؤكد خلال ٤٨ ساعة ونحذف البيانات الشخصية خلال ٣٠ يوماً، مع الاحتفاظ فقط بما يلزمنا قانون الضرائب بحفظه في الفواتير.",
+    "keywords": [
+     "delete account",
+     "data",
+     "privacy",
+     "gdpr"
+    ],
+    "keywords_ar": [
+     "حذف الحساب",
+     "بيانات",
+     "خصوصية"
+    ],
+    "intent": "account"
+   },
+   {
+    "id": "FAQ-065",
+    "question": "Is my card data safe?",
+    "question_ar": "بيانات بطاقتي آمنة؟",
+    "answer": "We never store full card numbers. Payments run through a PCI-DSS certified gateway with 3-D Secure, and saved cards are held as tokens by the gateway, not by us.",
+    "answer_ar": "لا نحتفظ بأرقام البطاقات كاملة أبداً. المدفوعات تمر عبر بوابة معتمدة PCI-DSS مع 3-D Secure، والبطاقات المحفوظة تُخزن كرموز عند البوابة لا عندنا.",
+    "keywords": [
+     "card",
+     "security",
+     "safe",
+     "pci",
+     "3d secure"
+    ],
+    "keywords_ar": [
+     "بطاقة",
+     "أمان",
+     "آمن"
+    ],
+    "intent": "payment"
+   }
+  ]
+ },
+ {
+  "topic": "Stores",
+  "topic_ar": "الفروع",
+  "slug": "stores",
+  "items": [
+   {
+    "id": "FAQ-066",
+    "question": "Where are your branches?",
+    "question_ar": "فروعكم فين؟",
+    "answer": "Fourteen branches: ten in Greater Cairo (Nasr City, Heliopolis, Maadi, Zamalek, Rehab, Fifth Settlement, Sheikh Zayed, 6th of October, Mohandessin, Shorouk), three in Alexandria (Smouha, Sidi Gaber, Miami) and one in Mansoura. Addresses, hours and phone numbers are in the store locations list.",
+    "answer_ar": "أربعة عشر فرعاً: عشرة في القاهرة الكبرى (مدينة نصر، مصر الجديدة، المعادي، الزمالك، الرحاب، التجمع الخامس، الشيخ زايد، السادس من أكتوبر، المهندسين، الشروق)، وثلاثة في الإسكندرية (سموحة، سيدي جابر، ميامي)، وواحد في المنصورة. العناوين والمواعيد والأرقام في قائمة الفروع.",
+    "keywords": [
+     "branches",
+     "stores",
+     "locations",
+     "addresses"
+    ],
+    "keywords_ar": [
+     "فروع",
+     "محلات",
+     "عناوين"
+    ],
+    "intent": "store_info"
+   },
+   {
+    "id": "FAQ-067",
+    "question": "What are branch opening hours?",
+    "question_ar": "مواعيد الفروع إيه؟",
+    "answer": "Most branches open 08:00 to 00:00 daily. Zamalek and Mohandessin close at 23:00. Ramadan hours differ by branch — check the store locations list for the branch you mean.",
+    "answer_ar": "معظم الفروع تفتح من ٨ صباحاً حتى ١٢ منتصف الليل يومياً. الزمالك والمهندسين يغلقان ١١ مساءً. مواعيد رمضان تختلف حسب الفرع — راجع قائمة الفروع للفرع المقصود.",
+    "keywords": [
+     "opening hours",
+     "branch hours",
+     "close",
+     "open"
+    ],
+    "keywords_ar": [
+     "مواعيد العمل",
+     "مواعيد الفروع"
+    ],
+    "intent": "store_info"
+   },
+   {
+    "id": "FAQ-068",
+    "question": "Which branches have a butchery and fish counter?",
+    "question_ar": "أنهي فروع فيها جزارة وسمك؟",
+    "answer": "The larger branches — Nasr City, Heliopolis, Maadi, Fifth Settlement, Sheikh Zayed, 6th of October, Smouha and Mansoura — have both a butchery and a fish counter. The store locations list shows the services for each branch.",
+    "answer_ar": "الفروع الكبيرة — مدينة نصر، مصر الجديدة، المعادي، التجمع الخامس، الشيخ زايد، السادس من أكتوبر، سموحة، المنصورة — بها قسم جزارة وقسم أسماك. قائمة الفروع تعرض الخدمات المتاحة في كل فرع.",
+    "keywords": [
+     "butchery",
+     "fish counter",
+     "services",
+     "branch"
+    ],
+    "keywords_ar": [
+     "جزارة",
+     "قسم الأسماك",
+     "خدمات",
+     "فرع"
+    ],
+    "intent": "store_info"
+   }
+  ]
+ },
+ {
+  "topic": "Complaints",
+  "topic_ar": "الشكاوى",
+  "slug": "complaints",
+  "items": [
+   {
+    "id": "FAQ-069",
+    "question": "How do I make a complaint?",
+    "question_ar": "أقدم شكوى إزاي؟",
+    "answer": "Tell us in chat, on 16770 or by e-mail with your order number. Complaints are acknowledged the same day and resolved within 48 hours; if the amount in dispute is above EGP 500 it goes to a team leader. You can ask for the case reference at any point.",
+    "answer_ar": "أخبرنا على الدردشة أو ١٦٧٧٠ أو بالبريد الإلكتروني مع رقم الطلب. نستلم الشكوى في نفس اليوم ونحلها خلال ٤٨ ساعة، وإذا كان المبلغ المتنازع عليه أكثر من ٥٠٠ جنيه تُحوَّل لمشرف الفريق. يمكنك طلب رقم الحالة في أي وقت.",
+    "keywords": [
+     "complaint",
+     "complain",
+     "escalate",
+     "unhappy"
+    ],
+    "keywords_ar": [
+     "شكوى",
+     "تصعيد",
+     "غير راضي"
+    ],
+    "intent": "complaint"
+   },
+   {
+    "id": "FAQ-070",
+    "question": "I think a product made me ill. What should I do?",
+    "question_ar": "أعتقد إن منتج سبب لي تعب، أعمل إيه؟",
+    "answer": "Please stop using the product, keep the packaging and the batch code, and seek medical advice if you feel unwell. Contact us on 16770 straight away — a food safety case is handled by a human agent, not by the assistant, and we investigate the batch with the supplier.",
+    "answer_ar": "من فضلك أوقف استخدام المنتج، واحتفظ بالعبوة ورقم الدفعة، واطلب المشورة الطبية إذا كنت تشعر بتوعك. اتصل بنا على ١٦٧٧٠ فوراً — حالات سلامة الغذاء يتعامل معها موظف بشري لا المساعد الذكي، ونحقق في الدفعة مع المورد.",
+    "keywords": [
+     "ill",
+     "sick",
+     "food safety",
+     "illness",
+     "poisoning"
+    ],
+    "keywords_ar": [
+     "تعب",
+     "مرض",
+     "سلامة الغذاء",
+     "تسمم"
+    ],
+    "intent": "complaint"
+   },
+   {
+    "id": "FAQ-071",
+    "question": "Can I get compensation for a late delivery?",
+    "question_ar": "أقدر أخد تعويض على تأخير التوصيل؟",
+    "answer": "If we miss your slot by more than 60 minutes we refund the delivery fee automatically. Beyond that, compensation is decided case by case by a care agent, so let us look at the order first.",
+    "answer_ar": "إذا تأخرنا عن فترتك أكثر من ٦٠ دقيقة نرد رسوم التوصيل تلقائياً. وما بعد ذلك يُقرره موظف خدمة العملاء لكل حالة على حدة، فدعنا نراجع الطلب أولاً.",
+    "keywords": [
+     "late",
+     "compensation",
+     "delay",
+     "refund fee"
+    ],
+    "keywords_ar": [
+     "تأخير",
+     "تعويض",
+     "رد الرسوم"
+    ],
+    "intent": "complaint"
+   }
+  ]
+ },
+ {
+  "topic": "Business",
+  "topic_ar": "الشركات",
+  "slug": "business",
+  "items": [
+   {
+    "id": "FAQ-072",
+    "question": "Do you sell to businesses?",
+    "question_ar": "بتبيعوا للشركات؟",
+    "answer": "Yes. NileMart Business covers offices, cafés, small hotels and clinics with a tax invoice, a named account manager and 15 or 30-day terms after approval. Write to business@nilemart.com.eg with your commercial register and tax card.",
+    "answer_ar": "أيوه. «نايل مارت بيزنس» يخدم المكاتب والكافيهات والفنادق الصغيرة والعيادات بفاتورة ضريبية ومدير حساب مخصص وشروط دفع ١٥ أو ٣٠ يوماً بعد الموافقة. راسلنا على business@nilemart.com.eg بالسجل التجاري والبطاقة الضريبية.",
+    "keywords": [
+     "b2b",
+     "business",
+     "corporate",
+     "office",
+     "wholesale"
+    ],
+    "keywords_ar": [
+     "شركات",
+     "بيزنس",
+     "مكاتب",
+     "جملة"
+    ],
+    "intent": "b2b"
+   },
+   {
+    "id": "FAQ-073",
+    "question": "Do you offer bulk discounts?",
+    "question_ar": "في خصم على الكميات؟",
+    "answer": "Business accounts get tiered pricing from 10 units of the same SKU, agreed in the account terms. Retail accounts do not get bulk discounts outside published offers.",
+    "answer_ar": "حسابات الشركات لها أسعار متدرجة من ١٠ وحدات من نفس المنتج، تُحدد في شروط الحساب. حسابات الأفراد لا تحصل على خصومات كمية خارج العروض المعلنة.",
+    "keywords": [
+     "bulk",
+     "wholesale",
+     "discount",
+     "quantity",
+     "business"
+    ],
+    "keywords_ar": [
+     "كميات",
+     "جملة",
+     "خصم",
+     "شركات"
+    ],
+    "intent": "b2b"
+   }
+  ]
+ }
+]

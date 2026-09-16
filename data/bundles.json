@@ -1,0 +1,673 @@
+[
+ {
+  "id": "BND-001",
+  "name": "Koshari Night Kit",
+  "name_ar": "كيت ليلة الكشري",
+  "kind": "recipe",
+  "cuisine": "Egyptian",
+  "serves": 4,
+  "prep_time_minutes": 45,
+  "difficulty": "Easy",
+  "description": "Everything for a full pan of koshari: rice, pasta, lentils, chickpeas, tomato paste, oil, onions and cumin.",
+  "description_ar": "كل ما يلزم لصينية كشري كاملة: أرز ومكرونة وعدس وحمص وصلصة وزيت وبصل وكمون.",
+  "items": [
+   {
+    "sku": "NM-GRO-001",
+    "name": "Egyptian Short-Grain Rice 1kg",
+    "name_ar": "أرز مصري قصير الحبة ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-005",
+    "name": "Vermicelli Sha'reya 400g",
+    "name_ar": "شعرية ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-015",
+    "name": "Split Yellow Lentils 500g",
+    "name_ar": "عدس أصفر مجروش ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-012",
+    "name": "Canned Chickpeas 400g",
+    "name_ar": "حمص معلب ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-013",
+    "name": "Double Concentrated Tomato Paste 380g",
+    "name_ar": "صلصة طماطم مركزة ٣٨٠ جم"
+   },
+   {
+    "sku": "NM-GRO-006",
+    "name": "Sunflower Cooking Oil 1.8L",
+    "name_ar": "زيت عباد الشمس ١.٨ لتر"
+   },
+   {
+    "sku": "NM-PRD-005",
+    "name": "Red Onions 1kg",
+    "name_ar": "بصل أحمر ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-017",
+    "name": "Ground Cumin 100g",
+    "name_ar": "كمون مطحون ١٠٠ جم"
+   }
+  ],
+  "items_count": 8,
+  "sum_of_items_egp": 428,
+  "bundle_price_egp": 374,
+  "saving_egp": 54,
+  "tags": [
+   "recipe",
+   "egyptian",
+   "vegan",
+   "family",
+   "budget"
+  ],
+  "dietary": "Vegan",
+  "image": "https://images.unsplash.com/photo-1579113800032-c38bd7635818?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-002",
+  "name": "Molokhia Sunday",
+  "name_ar": "ملوخية يوم الجمعة",
+  "kind": "recipe",
+  "cuisine": "Egyptian",
+  "serves": 4,
+  "prep_time_minutes": 60,
+  "difficulty": "Medium",
+  "description": "Fresh molokhia leaves, a whole chicken, garlic, coriander and Egyptian rice to serve with it.",
+  "description_ar": "ورق ملوخية طازج وفرخة كاملة وثوم وكزبرة وأرز مصري للتقديم.",
+  "items": [
+   {
+    "sku": "NM-PRD-013",
+    "name": "Fresh Molokhia Leaves 500g",
+    "name_ar": "ملوخية طازجة ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-MPS-007",
+    "name": "Whole Fresh Chicken 1.2kg",
+    "name_ar": "فرخة كاملة طازجة ١.٢ كجم"
+   },
+   {
+    "sku": "NM-PRD-006",
+    "name": "Fresh Garlic 500g",
+    "name_ar": "ثوم طازج ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-001",
+    "name": "Egyptian Short-Grain Rice 1kg",
+    "name_ar": "أرز مصري قصير الحبة ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-017",
+    "name": "Ground Cumin 100g",
+    "name_ar": "كمون مطحون ١٠٠ جم"
+   }
+  ],
+  "items_count": 5,
+  "sum_of_items_egp": 373,
+  "bundle_price_egp": 324,
+  "saving_egp": 49,
+  "tags": [
+   "recipe",
+   "egyptian",
+   "chicken",
+   "traditional",
+   "family"
+  ],
+  "dietary": "Halal",
+  "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-003",
+  "name": "Egyptian Breakfast Box",
+  "name_ar": "صندوق الفطار المصري",
+  "kind": "bundle",
+  "cuisine": "Egyptian",
+  "serves": 4,
+  "prep_time_minutes": 10,
+  "difficulty": "Easy",
+  "description": "The classic morning table: foul, tahina, Domiati cheese, baladi bread, tomatoes and eggs.",
+  "description_ar": "سفرة الصبح التقليدية: فول وطحينة وجبنة دمياطي وعيش بلدي وطماطم وبيض.",
+  "items": [
+   {
+    "sku": "NM-GRO-011",
+    "name": "Canned Fava Beans (Foul Medames) 400g",
+    "name_ar": "فول مدمس معلب ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-023",
+    "name": "Pure Sesame Tahina 400g",
+    "name_ar": "طحينة سمسم صافية ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-DEB-008",
+    "name": "Domiati White Cheese 500g",
+    "name_ar": "جبنة بيضاء دمياطي ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-DEB-020",
+    "name": "Baladi Bread (pack of 10)",
+    "name_ar": "عيش بلدي ١٠ أرغفة"
+   },
+   {
+    "sku": "NM-PRD-001",
+    "name": "Fresh Tomatoes 1kg",
+    "name_ar": "طماطم طازجة ١ كجم"
+   },
+   {
+    "sku": "NM-DEB-018",
+    "name": "White Table Eggs (30)",
+    "name_ar": "بيض أبيض ٣٠ بيضة"
+   }
+  ],
+  "items_count": 6,
+  "sum_of_items_egp": 476,
+  "bundle_price_egp": 414,
+  "saving_egp": 62,
+  "tags": [
+   "bundle",
+   "breakfast",
+   "egyptian",
+   "family",
+   "best-seller"
+  ],
+  "dietary": "Vegetarian option",
+  "image": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-004",
+  "name": "Bechamel Pasta Tray",
+  "name_ar": "صينية مكرونة بشاميل",
+  "kind": "recipe",
+  "cuisine": "Egyptian",
+  "serves": 6,
+  "prep_time_minutes": 70,
+  "difficulty": "Medium",
+  "description": "Penne, minced beef, milk, butter, flour and mozzarella for a full bechamel tray.",
+  "description_ar": "مكرونة قلم ولحمة مفرومة ولبن وزبدة ودقيق وموتزاريلا لصينية بشاميل كاملة.",
+  "items": [
+   {
+    "sku": "NM-GRO-004",
+    "name": "Penne Rigate 400g",
+    "name_ar": "مكرونة قلم مضلعة ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-MPS-002",
+    "name": "Fresh Minced Beef 1kg",
+    "name_ar": "لحم بقري مفروم طازج ١ كجم"
+   },
+   {
+    "sku": "NM-DEB-001",
+    "name": "Full-Fat Fresh Milk 1L",
+    "name_ar": "لبن كامل الدسم طازج ١ لتر"
+   },
+   {
+    "sku": "NM-DEB-015",
+    "name": "Unsalted Butter 200g",
+    "name_ar": "زبدة غير مملحة ٢٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-010",
+    "name": "All-Purpose Wheat Flour 1kg",
+    "name_ar": "دقيق فاخر متعدد الاستخدامات ١ كجم"
+   },
+   {
+    "sku": "NM-DEB-013",
+    "name": "Shredded Mozzarella 450g",
+    "name_ar": "موتزاريلا مبروشة ٤٥٠ جم"
+   },
+   {
+    "sku": "NM-GRO-018",
+    "name": "Ground Black Pepper 100g",
+    "name_ar": "فلفل أسود مطحون ١٠٠ جم"
+   }
+  ],
+  "items_count": 7,
+  "sum_of_items_egp": 1048,
+  "bundle_price_egp": 939,
+  "saving_egp": 109,
+  "tags": [
+   "recipe",
+   "pasta",
+   "beef",
+   "family",
+   "comfort-food"
+  ],
+  "dietary": "Halal",
+  "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-005",
+  "name": "Grill Night for Six",
+  "name_ar": "ليلة مشويات لستة",
+  "kind": "bundle",
+  "cuisine": "Egyptian",
+  "serves": 6,
+  "prep_time_minutes": 50,
+  "difficulty": "Easy",
+  "description": "Kofta, lamb chops, chicken wings, peppers, onions and tahina for the grill.",
+  "description_ar": "كفتة وريش ضاني وأجنحة فراخ وفلفل وبصل وطحينة للشوي.",
+  "items": [
+   {
+    "sku": "NM-MPS-003",
+    "name": "Seasoned Beef Kofta 500g",
+    "name_ar": "كفتة بقري متبلة ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-MPS-006",
+    "name": "Lamb Chops 1kg",
+    "name_ar": "ريش ضاني ١ كجم"
+   },
+   {
+    "sku": "NM-MPS-010",
+    "name": "Chicken Wings 1kg",
+    "name_ar": "أجنحة فراخ ١ كجم"
+   },
+   {
+    "sku": "NM-PRD-008",
+    "name": "Green Bell Peppers 500g",
+    "name_ar": "فلفل أخضر رومي ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-PRD-005",
+    "name": "Red Onions 1kg",
+    "name_ar": "بصل أحمر ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-023",
+    "name": "Pure Sesame Tahina 400g",
+    "name_ar": "طحينة سمسم صافية ٤٠٠ جم"
+   }
+  ],
+  "items_count": 6,
+  "sum_of_items_egp": 1283,
+  "bundle_price_egp": 1149,
+  "saving_egp": 134,
+  "tags": [
+   "bundle",
+   "grill",
+   "meat",
+   "party",
+   "weekend"
+  ],
+  "dietary": "Halal",
+  "image": "https://images.unsplash.com/photo-1723893905879-0e309c2a8e06?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-006",
+  "name": "Seafood Friday",
+  "name_ar": "سمك الجمعة",
+  "kind": "recipe",
+  "cuisine": "Egyptian",
+  "serves": 4,
+  "prep_time_minutes": 40,
+  "difficulty": "Medium",
+  "description": "Whole bolti, shrimp, lemons, rice and cumin — the Alexandria fish lunch.",
+  "description_ar": "بلطي كامل وجمبري وليمون وأرز وكمون — غداء السمك السكندري.",
+  "items": [
+   {
+    "sku": "NM-MPS-017",
+    "name": "Whole Bolti (Tilapia) 1kg",
+    "name_ar": "بلطي كامل ١ كجم"
+   },
+   {
+    "sku": "NM-MPS-019",
+    "name": "Medium Shrimp 500g",
+    "name_ar": "جمبري متوسط ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-PRD-025",
+    "name": "Fresh Lemons 500g",
+    "name_ar": "ليمون طازج ٥٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-001",
+    "name": "Egyptian Short-Grain Rice 1kg",
+    "name_ar": "أرز مصري قصير الحبة ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-017",
+    "name": "Ground Cumin 100g",
+    "name_ar": "كمون مطحون ١٠٠ جم"
+   }
+  ],
+  "items_count": 5,
+  "sum_of_items_egp": 648,
+  "bundle_price_egp": 569,
+  "saving_egp": 79,
+  "tags": [
+   "recipe",
+   "seafood",
+   "fish",
+   "weekend",
+   "alexandria"
+  ],
+  "dietary": "Pescatarian",
+  "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-007",
+  "name": "Lunchbox Week",
+  "name_ar": "أسبوع اللانش بوكس",
+  "kind": "bundle",
+  "cuisine": "General",
+  "serves": 5,
+  "prep_time_minutes": 15,
+  "difficulty": "Easy",
+  "description": "Five school days covered: toast, cheese slices, apples, bananas and chocolate milk.",
+  "description_ar": "خمسة أيام مدرسية: توست وشرائح جبنة وتفاح وموز ولبن بالشوكولاتة.",
+  "items": [
+   {
+    "sku": "NM-DEB-021",
+    "name": "Sliced Toast Bread 600g",
+    "name_ar": "توست شرائح ٦٠٠ جم"
+   },
+   {
+    "sku": "NM-DEB-012",
+    "name": "Cheddar Cheese Slices 200g",
+    "name_ar": "شرائح جبنة شيدر ٢٠٠ جم"
+   },
+   {
+    "sku": "NM-PRD-019",
+    "name": "Royal Gala Apples 1kg",
+    "name_ar": "تفاح رويال جالا ١ كجم"
+   },
+   {
+    "sku": "NM-PRD-018",
+    "name": "Bananas 1kg",
+    "name_ar": "موز ١ كجم"
+   },
+   {
+    "sku": "NM-BEV-021",
+    "name": "Chocolate Milk 250ml",
+    "name_ar": "لبن بالشوكولاتة ٢٥٠ مل"
+   }
+  ],
+  "items_count": 5,
+  "sum_of_items_egp": 290,
+  "bundle_price_egp": 254,
+  "saving_egp": 36,
+  "tags": [
+   "bundle",
+   "kids",
+   "school",
+   "breakfast",
+   "back-to-school"
+  ],
+  "dietary": "Vegetarian",
+  "image": "https://images.unsplash.com/photo-1631379578550-7038263db699?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-008",
+  "name": "Oily Skin Starter Routine",
+  "name_ar": "روتين البشرة الدهنية للمبتدئين",
+  "kind": "bundle",
+  "cuisine": "",
+  "serves": 1,
+  "prep_time_minutes": 5,
+  "difficulty": "Easy",
+  "description": "Three-step routine for oily and congested skin: salicylic cleanser, niacinamide serum, SPF50+ fluid.",
+  "description_ar": "روتين ثلاث خطوات للبشرة الدهنية والمسدودة: غسول ساليسيليك وسيروم نياسيناميد وواقي شمس SPF50+.",
+  "items": [
+   {
+    "sku": "NM-SKN-002",
+    "name": "Salicylic Acid Cleanser 200ml",
+    "name_ar": "غسول بحمض الساليسيليك ٢٠٠ مل"
+   },
+   {
+    "sku": "NM-SKN-005",
+    "name": "Niacinamide 10% Serum 30ml",
+    "name_ar": "سيروم نياسيناميد ١٠٪ ٣٠ مل"
+   },
+   {
+    "sku": "NM-SKN-009",
+    "name": "Sunscreen SPF50+ Fluid 50ml",
+    "name_ar": "واقي شمس سائل SPF50+ ٥٠ مل"
+   }
+  ],
+  "items_count": 3,
+  "sum_of_items_egp": 1020,
+  "bundle_price_egp": 909,
+  "saving_egp": 111,
+  "tags": [
+   "bundle",
+   "skincare",
+   "oily-skin",
+   "routine",
+   "best-seller"
+  ],
+  "dietary": "",
+  "image": "https://images.unsplash.com/photo-1581182800629-7d90925ad072?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-009",
+  "name": "Dry Skin Winter Routine",
+  "name_ar": "روتين الشتاء للبشرة الجافة",
+  "kind": "bundle",
+  "cuisine": "",
+  "serves": 1,
+  "prep_time_minutes": 5,
+  "difficulty": "Easy",
+  "description": "Gentle cleanser, hyaluronic acid serum, cocoa butter body lotion and an SPF lip balm.",
+  "description_ar": "غسول لطيف وسيروم حمض الهيالورونيك ولوشن زبدة الكاكاو وبلسم شفاه بواقي شمس.",
+  "items": [
+   {
+    "sku": "NM-SKN-001",
+    "name": "Gentle Foaming Face Wash 150ml",
+    "name_ar": "غسول وجه رغوي لطيف ١٥٠ مل"
+   },
+   {
+    "sku": "NM-SKN-006",
+    "name": "Hyaluronic Acid Serum 30ml",
+    "name_ar": "سيروم حمض الهيالورونيك ٣٠ مل"
+   },
+   {
+    "sku": "NM-SKN-015",
+    "name": "Cocoa Butter Body Lotion 400ml",
+    "name_ar": "لوشن جسم بزبدة الكاكاو ٤٠٠ مل"
+   },
+   {
+    "sku": "NM-SKN-014",
+    "name": "Lip Balm SPF30 4.8g",
+    "name_ar": "بلسم شفاه SPF30 ٤.٨ جم"
+   }
+  ],
+  "items_count": 4,
+  "sum_of_items_egp": 875,
+  "bundle_price_egp": 769,
+  "saving_egp": 106,
+  "tags": [
+   "bundle",
+   "skincare",
+   "dry-skin",
+   "winter",
+   "routine"
+  ],
+  "dietary": "",
+  "image": "https://images.unsplash.com/photo-1619451334792-150fd785ee74?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-010",
+  "name": "New Home Cleaning Starter",
+  "name_ar": "بداية تنظيف البيت الجديد",
+  "kind": "bundle",
+  "cuisine": "",
+  "serves": 1,
+  "prep_time_minutes": 5,
+  "difficulty": "Easy",
+  "description": "The first cleaning shop for a new flat: laundry, dishwashing, multi-purpose, bathroom, mop set and gloves.",
+  "description_ar": "أول شراء منظفات لشقة جديدة: غسيل وأطباق ومنظف متعدد ومنظف حمام وطقم ممسحة وقفازات.",
+  "items": [
+   {
+    "sku": "NM-HOM-001",
+    "name": "Automatic Laundry Powder 5kg",
+    "name_ar": "مسحوق غسيل أوتوماتيك ٥ كجم"
+   },
+   {
+    "sku": "NM-HOM-005",
+    "name": "Dishwashing Liquid 750ml",
+    "name_ar": "سائل غسيل أطباق ٧٥٠ مل"
+   },
+   {
+    "sku": "NM-HOM-007",
+    "name": "Multi-Purpose Cleaner 1L",
+    "name_ar": "منظف متعدد الاستخدامات ١ لتر"
+   },
+   {
+    "sku": "NM-HOM-009",
+    "name": "Bathroom & Limescale Cleaner 750ml",
+    "name_ar": "منظف حمام ومزيل ترسبات ٧٥٠ مل"
+   },
+   {
+    "sku": "NM-HOM-023",
+    "name": "Spin Mop & Bucket Set",
+    "name_ar": "طقم ممسحة دوارة وجردل"
+   },
+   {
+    "sku": "NM-HOM-024",
+    "name": "Household Rubber Gloves (Medium)",
+    "name_ar": "قفازات مطاطية منزلية مقاس وسط"
+   }
+  ],
+  "items_count": 6,
+  "sum_of_items_egp": 1526,
+  "bundle_price_egp": 1369,
+  "saving_egp": 157,
+  "tags": [
+   "bundle",
+   "home-care",
+   "new-home",
+   "cleaning",
+   "starter"
+  ],
+  "dietary": "",
+  "image": "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-011",
+  "name": "Coffee Corner Setup",
+  "name_ar": "تجهيز رُكن القهوة",
+  "kind": "bundle",
+  "cuisine": "",
+  "serves": 1,
+  "prep_time_minutes": 10,
+  "difficulty": "Easy",
+  "description": "Espresso machine, 1kg of espresso beans, long-life milk and an electric kettle for the side.",
+  "description_ar": "ماكينة إسبريسو وكيلو حبوب إسبريسو ولبن طويل الأجل وكاتيل كهربائي.",
+  "items": [
+   {
+    "sku": "NM-APP-013",
+    "name": "Espresso Machine 15 Bar",
+    "name_ar": "ماكينة إسبريسو ١٥ بار"
+   },
+   {
+    "sku": "NM-BEV-018",
+    "name": "Espresso Coffee Beans 1kg",
+    "name_ar": "حبوب قهوة إسبريسو ١ كجم"
+   },
+   {
+    "sku": "NM-DEB-003",
+    "name": "Long-Life UHT Milk 1L",
+    "name_ar": "لبن طويل الأجل ١ لتر"
+   },
+   {
+    "sku": "NM-APP-012",
+    "name": "Electric Kettle 1.7L",
+    "name_ar": "كاتيل كهربائي ١.٧ لتر"
+   }
+  ],
+  "items_count": 4,
+  "sum_of_items_egp": 12018,
+  "bundle_price_egp": 11049,
+  "saving_egp": 969,
+  "tags": [
+   "bundle",
+   "coffee",
+   "appliance",
+   "gift",
+   "premium"
+  ],
+  "dietary": "",
+  "image": "https://images.unsplash.com/photo-1620807773206-49c1f2957417?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ },
+ {
+  "id": "BND-012",
+  "name": "Student Kitchen Basics",
+  "name_ar": "أساسيات مطبخ الطالب",
+  "kind": "bundle",
+  "cuisine": "General",
+  "serves": 1,
+  "prep_time_minutes": 10,
+  "difficulty": "Easy",
+  "description": "Rice, pasta, oil, tuna, tea, eggs, a kettle and an air fryer to cook with.",
+  "description_ar": "أرز ومكرونة وزيت وتونة وشاي وبيض وكاتيل وإير فراير للطهي.",
+  "items": [
+   {
+    "sku": "NM-GRO-001",
+    "name": "Egyptian Short-Grain Rice 1kg",
+    "name_ar": "أرز مصري قصير الحبة ١ كجم"
+   },
+   {
+    "sku": "NM-GRO-003",
+    "name": "Spaghetti No.7 400g",
+    "name_ar": "مكرونة اسباجتي رقم ٧ ٤٠٠ جم"
+   },
+   {
+    "sku": "NM-GRO-008",
+    "name": "Corn Oil 1L",
+    "name_ar": "زيت ذرة ١ لتر"
+   },
+   {
+    "sku": "NM-GRO-014",
+    "name": "Light Meat Tuna in Sunflower Oil 3x140g",
+    "name_ar": "تونة قطع في زيت عباد الشمس ٣×١٤٠ جم"
+   },
+   {
+    "sku": "NM-BEV-014",
+    "name": "Black Tea Bags (100 bags)",
+    "name_ar": "فتلة شاي أسود ١٠٠ فتلة"
+   },
+   {
+    "sku": "NM-DEB-018",
+    "name": "White Table Eggs (30)",
+    "name_ar": "بيض أبيض ٣٠ بيضة"
+   },
+   {
+    "sku": "NM-APP-012",
+    "name": "Electric Kettle 1.7L",
+    "name_ar": "كاتيل كهربائي ١.٧ لتر"
+   },
+   {
+    "sku": "NM-APP-007",
+    "name": "Air Fryer 5.5L",
+    "name_ar": "إير فراير ٥.٥ لتر"
+   }
+  ],
+  "items_count": 8,
+  "sum_of_items_egp": 7956.5,
+  "bundle_price_egp": 7299,
+  "saving_egp": 657.5,
+  "tags": [
+   "bundle",
+   "student",
+   "starter",
+   "appliance",
+   "kitchen"
+  ],
+  "dietary": "Halal",
+  "image": "https://images.unsplash.com/photo-1695089028114-ce28248f0ab9?w=1000&h=1000&fit=crop&q=80",
+  "status": "active"
+ }
+]

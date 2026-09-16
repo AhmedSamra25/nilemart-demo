@@ -1,0 +1,1727 @@
+[
+ {
+  "title": "NILEMART — COMPANY PROFILE",
+  "title_ar": "نايل مارت — الملف التعريفي للشركة",
+  "meta": [
+   "Document owner: Customer Experience Department",
+   "Version: 1.0",
+   "Last reviewed: September 2026",
+   "Applies to: nilemart.com.eg, NileMart mobile app, WhatsApp, webchat, phone, and all branches",
+   "NOTE FOR THE AI AGENT: This file is the single source of truth for who NileMart is,",
+   "where it operates, what it sells, how it delivers and how customers can reach it.",
+   "Use it for identity, coverage, hours, payment and channel questions. It does NOT",
+   "contain product prices (see the product category files), promotion details (see the",
+   "offers file) or the full text of policies (see the individual policy files)."
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "WHO WE ARE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "NileMart is an Egyptian online hypermarket. We sell groceries, fresh produce, meat and seafood, dairy and bakery, beverages, skincare and beauty, home care products and home appliances through one basket, and deliver to the customer's door."
+     },
+     {
+      "type": "pre",
+      "text": "Legal name:            NileMart for Retail Trade S.A.E.\nTrading name:          NileMart (نايل مارت)\nFounded:               2019\nHeadquarters:          Smart Village, Building B22, 6th of October City, Giza, Egypt\nCommercial register:   127845 (Giza)\nTax ID:                412-887-936\nHead office phone:     +20 2 3854 7700\nCustomer care hotline: 16770 (from inside Egypt, 7 days a week)\nCustomer care e-mail:  care@nilemart.com.eg\nWebsite:               https://www.nilemart.com.eg\nMobile app:            NileMart — iOS App Store and Google Play\nSocial:                facebook.com/nilemart.eg · instagram.com/nilemart.eg · x.com/nilemart_eg"
+     },
+     {
+      "type": "pre",
+      "text": "Company size:          1,850 employees (of whom 620 in stores, 410 in fulfilment\n                       and last-mile, 95 in customer experience)\nRegistered customers:  2.4 million\nOrders per month:      approximately 310,000\nAverage basket:        EGP 1,140\nAssortment:            about 18,000 active SKUs across 8 main categories\nCurrency:              Egyptian Pound (EGP). All prices include 14% VAT unless\n                       the product page says otherwise."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "WHAT WE BELIEVE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Mission To make a full household shop — fresh food, cupboard staples, cleaning, beauty and the appliance that just broke — something an Egyptian family can finish in ten minutes on a phone and receive the same day."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Vision To be the first place households in Egypt look when they need anything for the home, and the retailer they trust most on freshness and on price."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Our five service promises 1. Fresh means fresh. Produce, meat, fish and bakery are picked the morning of delivery, never from long-held stock. 2. The price you see is the price you pay. No hidden service fee, no surprise surcharge at the door. 3. Substitutions are the customer's choice, not ours. We ask before we swap. 4. If it is wrong, we take it back. No argument at the door for fresh items. 5. Arabic and English, equally. Every channel, every agent, every notification."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Tone we use with customers Warm, direct, and practical. We use the customer's own language and dialect. We do not oversell, we do not blame the customer, and we do not hide behind policy wording when a simple fix is available."
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "WHERE WE OPERATE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "Physical footprint 14 stores across Greater Cairo, Alexandria and the Delta, plus 3 dark stores (fulfilment-only, no walk-in shopping)."
+     },
+     {
+      "type": "pre",
+      "text": "Greater Cairo:  Nasr City, Heliopolis, Maadi, Zamalek, New Cairo (Rehab),\n                New Cairo (Fifth Settlement), Sheikh Zayed, 6th of October,\n                Mohandessin, Shorouk\nAlexandria:     Smouha, Sidi Gaber, Miami\nDelta:          Mansoura\nDark stores:    Obour, Haram, Alexandria West"
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Full addresses, opening hours, phone numbers and per-branch services are in the store locations file — not in this document."
+     },
+     {
+      "type": "p",
+      "marker": "3.2",
+      "text": "Delivery coverage We deliver to Cairo, Giza, Qalyubia, Alexandria, Dakahlia (Mansoura only), Sharqia (10th of Ramadan and Zagazig only), and the North Coast between Marina and Sidi Abdel Rahman during the summer season (15 June – 15 September)."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "We do NOT currently deliver to Upper Egypt (Assiut, Sohag, Qena, Luxor, Aswan), the Red Sea governorate, South Sinai, or the New Valley. Non-perishable orders to these areas can be shipped by third-party courier in 3–5 working days at the customer's cost; fresh, chilled and frozen items are excluded."
+     },
+     {
+      "type": "pre",
+      "text": "3.3 Delivery windows and fees\nExpress (2 hours)        EGP 79   Greater Cairo and Alexandria only, 09:00–22:00\nSame-day scheduled       EGP 45   Order before 15:00, choose a 2-hour slot\nNext-day scheduled       EGP 29   Any covered area, 2-hour slot\nFree delivery threshold  EGP 1,200 basket value on same-day and next-day\n                                  (Express fee is never waived)\nLarge appliance delivery EGP 250  flat, includes carry-in and levelling;\n                                  installation of AC units and water heaters is\n                                  quoted separately\nClick & Collect          Free     Ready in 2 hours at any of the 14 stores"
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Delivery is available 7 days a week, 09:00 to 23:00. During Ramadan the last slot moves to 02:00 and no deliveries run between 17:00 and 19:30."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Fees and thresholds above are the current published values. If the offers file or a live campaign states a different threshold, the campaign wins for its stated period."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "WHAT WE SELL — THE EIGHT CATEGORIES",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "1. Groceries & Pantry (بقالة ومؤن) Rice, pasta, cooking oils, canned goods, pulses, spices, sugar and flour, breakfast cereal, spreads."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "2. Fresh Fruit & Vegetables (خضروات وفواكه طازجة) Daily-picked local produce plus a small imported range. Priced per kilo or per head; weight-based items may vary ±5% from the listed weight."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "3. Meat, Poultry & Seafood (لحوم ودواجن وأسماك) Fresh halal butchery, poultry, Nile and Mediterranean fish, seafood, cold cuts and frozen convenience meat. Every animal product we sell is halal."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "4. Dairy, Eggs & Bakery (ألبان وبيض ومخبوزات) Milk and fermented dairy, Egyptian and imported cheese, butter and cream, eggs, plus an in-store bakery baking through the day."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "5. Beverages (مشروبات) Juice, soft drinks, water including 19L dispenser refills, tea, coffee and traditional herbal drinks."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "6. Skincare & Beauty (العناية بالبشرة والتجميل) Cleansers, serums, moisturisers, sun care, masks, hair care, body care and a small colour-cosmetics range."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "7. Home Care & Cleaning (منظفات ومستلزمات منزلية) Laundry, dishwashing, surface and bathroom cleaners, paper goods, kitchen basics, cleaning tools, pest control and home fragrance."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "8. Home Appliances & Electronics (أجهزة منزلية وإلكترونيات) Refrigeration, laundry and kitchen appliances, small kitchen appliances, climate control, televisions, audio, mobile and accessories."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Private label: products branded \"NileMart Farms\" (produce), \"NileMart Butchery\" (meat), \"NileMart Fish Market\" (fish) and \"NileMart Bakery\" (bread and pastry) are our own. They are prepared in our facilities and carry the same returns terms as any other product."
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "HOW CUSTOMERS PAY",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Accepted"
+     },
+     {
+      "type": "ul",
+      "items": [
+       "Visa, Mastercard and Meeza cards (3-D Secure required)",
+       "Cash on delivery, up to EGP 25,000 per order",
+       "Card on delivery — the driver carries a POS terminal",
+       "Instant wallets: Vodafone Cash, Orange Cash, Etisalat Cash, we",
+       "Fawry reference payment (pay at any Fawry outlet within 6 hours)",
+       "valU, Contact, Aman and Souhoola instalments, 6 to 36 months, on baskets above EGP 3,000 (usually used on appliances)",
+       "NileMart gift cards and store credit"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Not accepted"
+     },
+     {
+      "type": "ul",
+      "items": [
+       "Cheques, bank transfer for retail orders, cryptocurrency, PayPal",
+       "Foreign-issued cards for cash-on-delivery orders"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Refunds go back to the original payment method. Cash-on-delivery orders are refunded as store credit by default, or to a bank account or wallet on request within 5 to 7 working days."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "LOYALTY — NILE POINTS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Free to join with any phone number. One point per EGP 10 spent; 100 points equal EGP 10 off. Points post 24 hours after delivery and expire 12 months after they are earned."
+     },
+     {
+      "type": "pre",
+      "text": "Tiers, based on rolling 12-month spend:\n  Blue      EGP 0 – 14,999        1x points\n  Silver    EGP 15,000 – 39,999   1.25x points, free next-day delivery\n  Gold      EGP 40,000 – 99,999   1.5x points, free same-day delivery, priority queue\n  Platinum  EGP 100,000+          2x points, free Express, dedicated care line"
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Points are not earned on gift cards, dispenser water deposits, delivery fees, or appliance instalment interest. Full mechanics are in the loyalty programme file."
+     }
+    ]
+   },
+   {
+    "number": "7",
+    "title": "HOW CUSTOMERS REACH US",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Channel            Hours                    Typical first response\nHotline 16770      07:00 – 01:00 daily      under 60 seconds\nWhatsApp           24/7 (AI + human)        instant (AI), under 5 min (human)\nWebsite live chat  24/7 (AI + human)        instant (AI), under 5 min (human)\nMobile app chat    24/7 (AI + human)        instant (AI), under 5 min (human)\nE-mail             replies 09:00 – 21:00    under 4 hours\nFacebook / Instagram DM  09:00 – 23:00      under 15 minutes\nIn store           branch hours             immediate"
+     },
+     {
+      "type": "pre",
+      "text": "Escalation ladder\nTier 1  AI agent — order status, product questions, offers, store info, returns\n        initiation, address changes before dispatch\nTier 2  Care agent — refunds, complaints, quality issues, appliance warranty\nTier 3  Care team leader — repeat failures, compensation above EGP 500\nTier 4  Head of Customer Experience — legal, press, regulator contact"
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "The AI agent must hand over to a human immediately when: the customer asks for a human; the case involves a food safety or illness claim; the amount in dispute exceeds EGP 2,000; the customer has contacted us about the same order three or more times; or the customer is distressed or abusive."
+     }
+    ]
+   },
+   {
+    "number": "8",
+    "title": "SERVICE LEVEL TARGETS (INTERNAL, DO NOT QUOTE TO CUSTOMERS AS GUARANTEES)",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "On-time delivery within slot          96%\nOrder fill rate (no missing item)     97.5%\nFresh quality complaints              under 0.4% of orders\nRefund processed within               48 hours of approval\nCSAT target                           4.5 / 5\nAI containment target                 65% of contacts resolved without a human"
+     }
+    ]
+   },
+   {
+    "number": "9",
+    "title": "THINGS THE AGENT SHOULD NEVER DO",
+    "nodes": [
+     {
+      "type": "ul",
+      "items": [
+       "Never invent a price, a stock level, an offer or a delivery time. If it is not in the knowledge base or the order system, say so and offer to check.",
+       "Never promise a delivery slot that has not been confirmed by the system.",
+       "Never confirm that a product is suitable for a medical condition, allergy or pregnancy. Point the customer to the label and, where relevant, to a doctor or pharmacist.",
+       "Never share another customer's order, address or phone number.",
+       "Never quote appliance installation as free — carry-in is included, installation of AC units and water heaters is not.",
+       "Never state that an item is halal, vegan, gluten-free or organic unless the product record says so."
+      ]
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — نظرة عامة بالعربية",
+   "nodes": [
+    {
+     "type": "p",
+     "marker": "",
+     "text": "نايل مارت هايبر ماركت مصري أونلاين، تأسس عام ٢٠١٩، ومقره الرئيسي في القرية الذكية بمدينة السادس من أكتوبر بالجيزة. نبيع البقالة والخضروات والفواكه واللحوم والأسماك والألبان والمخبوزات والمشروبات ومستحضرات العناية بالبشرة ومنظفات المنزل والأجهزة المنزلية في سلة واحدة، ونوصلها إلى باب العميل."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "لدينا ١٤ فرعاً في القاهرة الكبرى والإسكندرية والدلتا، وثلاثة مستودعات للتجهيز فقط. نوصل إلى القاهرة والجيزة والقليوبية والإسكندرية والمنصورة والعاشر من رمضان والزقازيق، وإلى الساحل الشمالي في الموسم الصيفي. لا نوصل حالياً إلى صعيد مصر أو البحر الأحمر أو جنوب سيناء أو الوادي الجديد."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "خيارات التوصيل: توصيل سريع خلال ساعتين بـ ٧٩ جنيهاً (القاهرة الكبرى والإسكندرية فقط)، توصيل في نفس اليوم بـ ٤٥ جنيهاً للطلبات قبل الثالثة عصراً، توصيل الغد بـ ٢٩ جنيهاً، وتوصيل مجاني للطلبات التي تزيد عن ١٢٠٠ جنيه. الاستلام من الفرع مجاني ويكون جاهزاً خلال ساعتين."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "طرق الدفع: فيزا وماستركارد وميزة، الدفع نقداً عند الاستلام حتى ٢٥ ألف جنيه، الدفع بالبطاقة عند الاستلام، محافظ فودافون كاش وأورانج كاش وإتصالات كاش و«وي»، فوري، وأنظمة التقسيط valU وكونتكت وأمان وسهولة من ٦ إلى ٣٦ شهراً للطلبات التي تزيد عن ٣٠٠٠ جنيه."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "برنامج الولاء «نقاط النيل»: نقطة لكل ١٠ جنيهات، و١٠٠ نقطة تساوي ١٠ جنيهات خصم، والنقاط صالحة ١٢ شهراً. المستويات: أزرق، فضي، ذهبي، بلاتيني."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "خدمة العملاء: الخط الساخن ١٦٧٧٠ من السابعة صباحاً حتى الواحدة صباحاً، وواتساب والدردشة على الموقع والتطبيق على مدار الساعة، والبريد الإلكتروني care@nilemart.com.eg."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "جميع المنتجات الحيوانية التي نبيعها حلال. الأسعار بالجنيه المصري وتشمل ضريبة القيمة المضافة ١٤٪."
+    }
+   ]
+  },
+  "slug": "company-profile",
+  "label": "Company profile"
+ },
+ {
+  "title": "NILEMART — DELIVERY & SHIPPING POLICY",
+  "title_ar": "نايل مارت — سياسة التوصيل والشحن",
+  "meta": [
+   "Version: 1.0 · Effective 1 September 2026 · Owner: Operations & Last-Mile",
+   "Applies to nilemart.com.eg, the NileMart app, WhatsApp and phone orders."
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "COVERAGE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "1.1",
+      "text": "We deliver to the following governorates and areas:"
+     },
+     {
+      "type": "ul",
+      "items": [
+       "Cairo — all districts",
+       "Giza — all districts including Sheikh Zayed and 6th of October City",
+       "Qalyubia — Obour, Shubra El Kheima, Banha, Qalyub",
+       "Alexandria — all districts from Agami to Montaza",
+       "Dakahlia — Mansoura city only",
+       "Sharqia — 10th of Ramadan and Zagazig only",
+       "Matrouh — North Coast between Marina and Sidi Abdel Rahman, seasonal only, from 15 June to 15 September each year"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "1.2",
+      "text": "We do not deliver to Upper Egypt (Fayoum, Beni Suef, Minya, Assiut, Sohag, Qena, Luxor, Aswan), the Red Sea governorate, South Sinai, North Sinai or the New Valley."
+     },
+     {
+      "type": "p",
+      "marker": "1.3",
+      "text": "Orders of non-perishable goods only to areas outside our coverage can be shipped by a third-party courier in 3 to 5 working days, at a shipping cost quoted at checkout and paid by the customer. Fresh, chilled, frozen, bakery and dispenser-water items are excluded from courier shipping and cannot be added to such an order."
+     },
+     {
+      "type": "p",
+      "marker": "1.4",
+      "text": "Coverage is by delivery address, not by billing address. If the address entered falls outside a covered area, the basket cannot be checked out for home delivery and the customer is offered Click & Collect instead."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "DELIVERY OPTIONS, FEES AND CUT-OFFS",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Option                  Fee (EGP)  Cut-off              Availability\nExpress — within 2h        79      none, live slots     Greater Cairo and\n                                                        Alexandria only,\n                                                        09:00–22:00\nSame-day scheduled         45      order before 15:00   All covered areas\nNext-day scheduled         29      order before 23:00   All covered areas\nLarge appliance           250      order before 15:00   All covered areas\nClick & Collect          free      none                 All 14 branches\nThird-party courier    quoted      order before 13:00   Outside coverage only"
+     },
+     {
+      "type": "p",
+      "marker": "2.1",
+      "text": "Free delivery applies to Same-day and Next-day orders with a basket value of EGP 1,200 or more, calculated after discounts and before the delivery fee. The Express fee is never waived by basket value; it is waived only by Platinum tier membership or by a specific published campaign."
+     },
+     {
+      "type": "p",
+      "marker": "2.2",
+      "text": "Delivery hours are 09:00 to 23:00, seven days a week. Slots are two hours wide and are shown live at checkout; a slot that is full is not offered."
+     },
+     {
+      "type": "p",
+      "marker": "2.3",
+      "text": "The minimum basket for home delivery is EGP 150 excluding the delivery fee. There is no minimum for Click & Collect."
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "RAMADAN AND PUBLIC HOLIDAYS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "During Ramadan the last delivery slot moves to 02:00 and no deliveries run between 17:00 and 19:30 so that drivers can break their fast."
+     },
+     {
+      "type": "p",
+      "marker": "3.2",
+      "text": "On the first two days of Eid al-Fitr and Eid al-Adha we run a reduced schedule with slots between 14:00 and 23:00 only. Express is suspended on those days."
+     },
+     {
+      "type": "p",
+      "marker": "3.3",
+      "text": "Slot availability during Ramadan is announced two weeks before the month begins. Pre-iftar slots typically fill 24 to 48 hours ahead."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "HOW ORDERS ARE PICKED AND PACKED",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "4.1",
+      "text": "Fresh produce, butchery, fish and bakery items are picked on the day of delivery, from the batch closest in time to the customer's slot. Nothing in these departments is picked from stock held overnight for the next day."
+     },
+     {
+      "type": "p",
+      "marker": "4.2",
+      "text": "Chilled and frozen goods travel in insulated bags with gel packs. The cold chain is maintained between 0°C and 4°C for chilled and at or below -18°C for frozen, from the picking station to handover."
+     },
+     {
+      "type": "p",
+      "marker": "4.3",
+      "text": "Meat and fish are vacuum-packed or sealed in leak-proof trays before being placed with other goods."
+     },
+     {
+      "type": "p",
+      "marker": "4.4",
+      "text": "Weight-based items may vary by up to 5% either side of the listed weight. The customer is charged the listed price regardless of the actual weight, so a variance never increases the amount paid."
+     },
+     {
+      "type": "p",
+      "marker": "4.5",
+      "text": "Butchery cutting instructions left in the order notes are followed. A request that moves the item into a different weight bracket may change the price, and the customer is contacted before the change is applied."
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "SUBSTITUTIONS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "5.1",
+      "text": "If an ordered item is unavailable at picking time, the picker contacts the customer through WhatsApp or the app and offers a substitute of equal or higher value at the price of the original item."
+     },
+     {
+      "type": "p",
+      "marker": "5.2",
+      "text": "No substitution is made without the customer's explicit consent for that order. A customer may switch on standing substitution consent in account settings, in which case like-for-like swaps are made automatically and are itemised on the invoice."
+     },
+     {
+      "type": "p",
+      "marker": "5.3",
+      "text": "If the customer declines or cannot be reached within 15 minutes, the item is removed from the order and refunded. The rest of the order proceeds."
+     },
+     {
+      "type": "p",
+      "marker": "5.4",
+      "text": "A removed item never causes a basket to fall below the free-delivery threshold retroactively; the original delivery terms are honoured."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "HANDOVER, DELAYS AND FAILED DELIVERY",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "6.1",
+      "text": "The driver calls the customer on arrival and waits up to 10 minutes."
+     },
+     {
+      "type": "p",
+      "marker": "6.2",
+      "text": "If the customer cannot be reached, the order returns to the fulfilling store. We then contact the customer to rebook. Fresh, chilled, frozen and bakery items cannot be redelivered for food safety reasons and are refunded in full. Non-perishable items are held for 48 hours and can be redelivered at the standard fee, or collected free from the store."
+     },
+     {
+      "type": "p",
+      "marker": "6.3",
+      "text": "Delivery fees on a failed delivery caused by the customer being unreachable are not refunded. A second delivery is charged again."
+     },
+     {
+      "type": "p",
+      "marker": "6.4",
+      "text": "If we miss the booked slot by more than 60 minutes, the delivery fee is refunded automatically without the customer needing to ask. Compensation beyond the delivery fee is assessed case by case by a customer care agent."
+     },
+     {
+      "type": "p",
+      "marker": "6.5",
+      "text": "Handover is to the person at the address. We do not require ID for grocery orders. For appliances and electronics above EGP 10,000 the driver records the name of the person receiving the goods."
+     },
+     {
+      "type": "p",
+      "marker": "6.6",
+      "text": "The customer may inspect the order at the door and refuse any item on the spot. Refused items are taken back by the driver and refunded; nothing is left behind against the customer's wishes."
+     }
+    ]
+   },
+   {
+    "number": "7",
+    "title": "LARGE APPLIANCES",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "7.1",
+      "text": "The EGP 250 large-appliance fee covers delivery, carry-in to the room of choice, unboxing, removal of packaging, levelling, and water and drain connection for washing machines and dishwashers."
+     },
+     {
+      "type": "p",
+      "marker": "7.2",
+      "text": "The fee does NOT cover installation of split air conditioners or electric water heaters. These require a qualified technician and are quoted separately by the technician after inspecting the site. Never describe this installation as free or included."
+     },
+     {
+      "type": "p",
+      "marker": "7.3",
+      "text": "Delivery teams do not carry appliances above the fourth floor where there is no working lift. In that case the customer is contacted before dispatch to arrange access or to cancel without charge."
+     },
+     {
+      "type": "p",
+      "marker": "7.4",
+      "text": "A refrigerator or freezer must stand upright for four hours before it is switched on. The driver states this at handover and it is printed on the handover slip."
+     },
+     {
+      "type": "p",
+      "marker": "7.5",
+      "text": "Old-appliance removal is not a service we offer."
+     }
+    ]
+   },
+   {
+    "number": "8",
+    "title": "CLICK & COLLECT",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "8.1",
+      "text": "Click & Collect is free and available at all 14 branches. Dark stores do not accept walk-in collection."
+     },
+     {
+      "type": "p",
+      "marker": "8.2",
+      "text": "Orders are ready within 2 hours of confirmation and are held for 48 hours. Chilled and frozen items are held in a cold room during that window."
+     },
+     {
+      "type": "p",
+      "marker": "8.3",
+      "text": "The customer brings the order number and a national ID or passport. A third party may collect if the customer names them in the order notes in advance."
+     },
+     {
+      "type": "p",
+      "marker": "8.4",
+      "text": "An order not collected within 48 hours is cancelled and refunded in full, including any perishable items."
+     }
+    ]
+   },
+   {
+    "number": "9",
+    "title": "WHAT THE AGENT MAY AND MAY NOT PROMISE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May: quote the fees and cut-offs in section 2; confirm coverage from section 1; explain substitution and failed-delivery handling; confirm that the delivery fee is refunded on a slot missed by over 60 minutes."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May not: promise a slot that the system has not confirmed; promise delivery to an area outside section 1; state that appliance installation is included; quote a courier price without a checkout quote; guarantee a delivery time more precise than the booked two-hour slot."
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — سياسة التوصيل بالعربية",
+   "nodes": [
+    {
+     "type": "h",
+     "text": "مناطق التوصيل"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "نوصل إلى القاهرة والجيزة والقليوبية (العبور وشبرا الخيمة وبنها وقليوب) والإسكندرية بالكامل، والمنصورة، والعاشر من رمضان والزقازيق، والساحل الشمالي من مارينا إلى سيدي عبد الرحمن في الفترة من ١٥ يونيو إلى ١٥ سبتمبر فقط. لا نوصل إلى صعيد مصر أو البحر الأحمر أو سيناء أو الوادي الجديد. المنتجات غير القابلة للتلف فقط يمكن شحنها لهذه المناطق عبر شركة شحن خارجية في ٣ إلى ٥ أيام عمل وعلى حساب العميل."
+    },
+    {
+     "type": "h",
+     "text": "خيارات التوصيل والرسوم"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "توصيل سريع خلال ساعتين: ٧٩ جنيهاً، القاهرة الكبرى والإسكندرية فقط، من ٩ صباحاً إلى ١٠ مساءً.",
+      "توصيل نفس اليوم: ٤٥ جنيهاً، للطلبات قبل الثالثة عصراً.",
+      "توصيل الغد: ٢٩ جنيهاً، للطلبات قبل الحادية عشرة مساءً.",
+      "الأجهزة الكبيرة: ٢٥٠ جنيهاً ثابتة.",
+      "الاستلام من الفرع: مجاني وجاهز خلال ساعتين."
+     ]
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "التوصيل مجاني لطلبات نفس اليوم والغد التي تبلغ ١٢٠٠ جنيه أو أكثر بعد الخصومات. رسوم التوصيل السريع لا تُلغى بقيمة السلة، وتُلغى فقط لأعضاء المستوى البلاتيني أو بحملة معلنة. الحد الأدنى للطلب ١٥٠ جنيهاً بدون رسوم التوصيل."
+    },
+    {
+     "type": "h",
+     "text": "رمضان والأعياد"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "في رمضان آخر فترة توصيل ٢ صباحاً، ولا نوصل بين ٥ و٧:٣٠ مساءً. في أول يومين من عيد الفطر وعيد الأضحى نعمل بجدول مختصر من ٢ ظهراً إلى ١١ مساءً، والتوصيل السريع موقوف في هذين اليومين."
+    },
+    {
+     "type": "h",
+     "text": "التجهيز والتغليف"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "الخضروات والفواكه واللحوم والأسماك والمخبوزات تُجهز في يوم التوصيل. المبردات والمجمدات تُنقل في شنط معزولة مع مثلجات، وسلسلة التبريد محفوظة بين صفر و٤ درجات للمبردات وعند -١٨ درجة أو أقل للمجمدات. المنتجات المُباعة بالوزن قد تختلف حتى ٥٪ زيادة أو نقصاً، ويُحاسب العميل على السعر المعلن لا الوزن الفعلي."
+    },
+    {
+     "type": "h",
+     "text": "البدائل"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "إذا نفد منتج نتواصل مع العميل ونعرض بديلاً بنفس القيمة أو أعلى وبسعر المنتج الأصلي. لا نستبدل بدون موافقة صريحة، إلا إذا فعّل العميل الموافقة الدائمة في إعدادات الحساب. إذا لم نتمكن من الوصول للعميل خلال ١٥ دقيقة نحذف المنتج ونرد قيمته ويستمر باقي الطلب."
+    },
+    {
+     "type": "h",
+     "text": "التسليم والتأخير"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "المندوب يتصل عند الوصول وينتظر حتى ١٠ دقائق. إذا لم نتمكن من الوصول للعميل يعود الطلب للفرع، والمنتجات الطازجة والمبردة والمجمدة لا يمكن إعادة توصيلها وتُرد قيمتها كاملة، أما المنتجات غير القابلة للتلف فتُحفظ ٤٨ ساعة. رسوم التوصيل لا تُرد في حالة فشل التوصيل بسبب عدم إمكانية الوصول للعميل. إذا تأخرنا عن الفترة المحددة أكثر من ٦٠ دقيقة تُرد رسوم التوصيل تلقائياً. يحق للعميل فحص الطلب عند الباب ورفض أي منتج، ويُرد ثمنه."
+    },
+    {
+     "type": "h",
+     "text": "الأجهزة الكبيرة"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "رسوم ٢٥٠ جنيهاً تشمل التوصيل والإدخال للغرفة وفك التغليف والتسوية وتوصيل المياه والصرف للغسالات وغسالات الأطباق. ولا تشمل تركيب تكييفات السبليت أو سخانات المياه الكهربائية، فهذه تحتاج فنياً مؤهلاً ويُحدد سعرها منفصلاً. لا نصعد بالأجهزة فوق الدور الرابع بدون مصعد يعمل. الثلاجة أو الفريزر يجب أن يقف رأسياً أربع ساعات قبل التشغيل. لا نقدم خدمة نقل الأجهزة القديمة."
+    },
+    {
+     "type": "h",
+     "text": "الاستلام من الفرع"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "مجاني في الفروع الأربعة عشر، وجاهز خلال ساعتين، ومحفوظ ٤٨ ساعة. يُطلب رقم الطلب وبطاقة الرقم القومي أو جواز السفر. يمكن لشخص آخر الاستلام إذا ذكر العميل اسمه في ملاحظات الطلب مقدماً. الطلب غير المستلم خلال ٤٨ ساعة يُلغى ويُرد كاملاً."
+    }
+   ]
+  },
+  "slug": "delivery",
+  "label": "Delivery & shipping"
+ },
+ {
+  "title": "NILEMART — RETURNS & REFUNDS POLICY",
+  "title_ar": "نايل مارت — سياسة الإرجاع والاسترداد",
+  "meta": [
+   "Version: 1.0 · Effective 1 September 2026 · Owner: Customer Experience",
+   "Applies to all sales channels. Consumer rights under Egyptian Consumer",
+   "Protection Law 181/2018 apply in addition to this policy and are not limited",
+   "by it."
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "RETURN WINDOWS BY CATEGORY",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Category                          Window                Condition required\nFresh produce                     at the door, or       none — photo only\n                                  24h after delivery\nButchery, poultry, fish, seafood  at the door, or       none — photo only\n                                  24h after delivery\nBakery                            at the door, or 24h   none — photo only\nDairy and eggs                    at the door, or 24h   none — photo only\nPackaged food and beverages       14 days               unopened, seal intact\nHome care and cleaning            14 days               unopened, seal intact\nSkincare, beauty, cosmetics       14 days               unopened, seal intact\nSmall appliances                  14 days               original box, all\n                                                        accessories, invoice\nLarge appliances                  14 days               original box, unused,\n                                                        not yet installed\nTelevisions, audio, mobile        14 days               original box, all seals\n                                                        and accessories"
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "The window runs from the date of delivery or collection, not the order date."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "FRESH FOOD — THE 24-HOUR RULE",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "2.1",
+      "text": "A customer may refuse any fresh item at the door, with no reason required. The driver takes it back and the item is refunded."
+     },
+     {
+      "type": "p",
+      "marker": "2.2",
+      "text": "If a quality problem is found after the driver has left, the customer reports it within 24 hours of delivery, quoting the order number and attaching a photograph. We refund the item in full. The item does not have to be returned — throwing it away is expected and does not affect the refund."
+     },
+     {
+      "type": "p",
+      "marker": "2.3",
+      "text": "If more than one third of the order by value is affected, the delivery fee is refunded as well."
+     },
+     {
+      "type": "p",
+      "marker": "2.4",
+      "text": "A repeated pattern of fresh-food claims on one account (more than four in a rolling 90 days) is reviewed by a team leader before further refunds are approved. The customer is told a review is taking place; claims are not silently refused."
+     },
+     {
+      "type": "p",
+      "marker": "2.5",
+      "text": "Fresh-food claims are never refused on the basis that the customer did not keep the product."
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "ITEMS THAT CANNOT BE RETURNED",
+    "nodes": [
+     {
+      "type": "ul",
+      "items": [
+       "Food or drink that has been opened, tasted or partly used",
+       "Skincare, cosmetics and personal-care products that have been opened, used or had their hygiene seal broken",
+       "Items bought from the clearance / short-dated range (see 3.1)",
+       "Gift cards and store credit",
+       "The returnable deposit on 19L water bottles, until the bottle is returned",
+       "Any product damaged by misuse, dropping, incorrect voltage, or unauthorised repair after delivery",
+       "Split air conditioners and electric water heaters once installed",
+       "Custom butchery cuts prepared to the customer's written instruction, unless there is a quality fault"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "Clearance and short-dated items are sold as final sale and are excluded from the 14-day window. The single exception is a genuine quality fault or a product delivered already past its expiry date, which is always refunded."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "FAULTY, DAMAGED, WRONG OR MISSING ITEMS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "4.1",
+      "text": "Missing item — reported within 24 hours, no photo required. We refund it or add it to the next order, whichever the customer prefers."
+     },
+     {
+      "type": "p",
+      "marker": "4.2",
+      "text": "Wrong item delivered — we collect it at our cost and deliver the correct item, or refund in full. No restocking fee."
+     },
+     {
+      "type": "p",
+      "marker": "4.3",
+      "text": "Damaged on arrival — reported within 48 hours with a photo. Full refund or replacement at the customer's choice, with collection at our cost."
+     },
+     {
+      "type": "p",
+      "marker": "4.4",
+      "text": "Faulty appliance within 14 days of delivery — we replace the unit. No warranty ticket is required for a fault this early."
+     },
+     {
+      "type": "p",
+      "marker": "4.5",
+      "text": "Faulty appliance after 14 days — covered by the manufacturer's warranty. We open the ticket with the brand's authorised service centre on the customer's behalf and follow it until it closes. The invoice is the warranty document."
+     },
+     {
+      "type": "p",
+      "marker": "4.6",
+      "text": "Product past its expiry or best-before date on arrival — full refund and, for us, a batch investigation with the supplier. Always escalate these to a human agent."
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "HOW A RETURN IS ARRANGED",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "5.1",
+      "text": "The customer contacts us on chat, WhatsApp, 16770 or by e-mail with the order number. There is no form to fill in."
+     },
+     {
+      "type": "p",
+      "marker": "5.2",
+      "text": "For items that must physically come back, we book a collection at the customer's address within 48 hours, or the customer can hand the item in at any branch. Collection is free except for large appliances, where the collection charge is EGP 250 when the return is a change of mind. There is no collection charge when the item is faulty, damaged or wrong."
+     },
+     {
+      "type": "p",
+      "marker": "5.3",
+      "text": "Items must be returned with the invoice or the order number. We do not require the original packaging for food, home care or beauty items, but we do require it for appliances and electronics."
+     },
+     {
+      "type": "p",
+      "marker": "5.4",
+      "text": "Once collected, the refund is approved within 24 hours of the item reaching the store, and issued within 48 hours of approval."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "REFUND METHODS AND TIMING",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Original payment            Refund goes to             Timing after approval\nCard (Visa/MC/Meeza)        the same card              48h to issue, then\n                                                       5–14 working days at the\n                                                       bank\nWallet (Vodafone/Orange/    the same wallet            up to 3 working days\nEtisalat Cash, we)\nFawry                       store credit, or bank      store credit instant;\n                            account on request         bank 5–7 working days\nCash on delivery            store credit by default,   store credit instant;\n                            or bank / wallet on        bank or wallet 5–7\n                            request                    working days\nInstalment (valU, Contact,  the finance provider,      provider's own cycle,\nAman, Souhoola)             who adjusts the plan       typically 7–21 days\nGift card / store credit    store credit               instant"
+     },
+     {
+      "type": "p",
+      "marker": "6.1",
+      "text": "Store credit never expires and can be used on any order including delivery fees."
+     },
+     {
+      "type": "p",
+      "marker": "6.2",
+      "text": "Partial refunds are issued to the original method in the same way as full refunds; there is no minimum refund value."
+     },
+     {
+      "type": "p",
+      "marker": "6.3",
+      "text": "We do not refund to a different person's card, account or wallet."
+     },
+     {
+      "type": "p",
+      "marker": "6.4",
+      "text": "The delivery fee is refunded when: the whole order is cancelled before dispatch; the order is refused in full at the door; we missed the slot by more than 60 minutes; or more than a third of the order by value had a quality fault. It is not refunded on a partial return of a delivered order that the customer chose to keep in part."
+     }
+    ]
+   },
+   {
+    "number": "7",
+    "title": "ORDER CANCELLATION",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "7.1",
+      "text": "Before dispatch — free, from My Orders in the app or by contacting us. Full refund including the delivery fee."
+     },
+     {
+      "type": "p",
+      "marker": "7.2",
+      "text": "After dispatch but before handover — treated as a refusal at the door. The customer may refuse the whole order; the delivery fee is refunded."
+     },
+     {
+      "type": "p",
+      "marker": "7.3",
+      "text": "After handover — treated as a return under sections 1 to 5."
+     },
+     {
+      "type": "p",
+      "marker": "7.4",
+      "text": "We may cancel an order ourselves when: payment fails or a Fawry reference expires; the address is outside coverage; stock is unavailable and no substitute is accepted; or we have reason to believe the order is fraudulent. In each case the customer is told the reason and refunded in full."
+     }
+    ]
+   },
+   {
+    "number": "8",
+    "title": "COMPENSATION AND ESCALATION",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "8.1",
+      "text": "Refunds up to EGP 500 can be approved by a Tier-2 care agent."
+     },
+     {
+      "type": "p",
+      "marker": "8.2",
+      "text": "EGP 500 to EGP 2,000 requires a care team leader."
+     },
+     {
+      "type": "p",
+      "marker": "8.3",
+      "text": "Above EGP 2,000, or any food-safety or illness claim, goes to the Head of Customer Experience."
+     },
+     {
+      "type": "p",
+      "marker": "8.4",
+      "text": "The AI agent may explain this policy and start a return, but may not approve a refund of any amount. It must hand over to a human for approval."
+     },
+     {
+      "type": "p",
+      "marker": "8.5",
+      "text": "Any claim that a product caused illness is handed to a human immediately, the batch code is recorded, and the customer is advised to seek medical advice. The AI agent never assesses a health claim itself."
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — سياسة الإرجاع والاسترداد بالعربية",
+   "nodes": [
+    {
+     "type": "h",
+     "text": "مدد الإرجاع"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "المنتجات الطازجة (خضروات وفواكه ولحوم ودواجن وأسماك ومخبوزات وألبان وبيض): الرفض عند الباب، أو الإبلاغ خلال ٢٤ ساعة من التوصيل مع صورة.",
+      "الأطعمة المعلبة والمشروبات ومنظفات المنزل ومستحضرات العناية والتجميل: ١٤ يوماً بشرط أن تكون غير مفتوحة والغلاف سليم.",
+      "الأجهزة الصغيرة والكبيرة والتليفزيونات والموبايلات: ١٤ يوماً في العبوة الأصلية مع كل الملحقات والفاتورة، وغير مستخدمة وغير مركبة. المدة تبدأ من تاريخ التوصيل أو الاستلام لا تاريخ الطلب."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "قاعدة الـ ٢٤ ساعة للمنتجات الطازجة"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "يحق للعميل رفض أي منتج طازج عند الباب بدون إبداء سبب. وإذا ظهرت مشكلة في الجودة بعد مغادرة المندوب، يُبلغ العميل خلال ٢٤ ساعة برقم الطلب وصورة، ونرد قيمة المنتج كاملة بدون حاجة لإرجاعه. إذا تأثر أكثر من ثلث الطلب من حيث القيمة تُرد رسوم التوصيل أيضاً. لا نرفض مطالبة منتج طازج بحجة أن العميل لم يحتفظ به."
+    },
+    {
+     "type": "h",
+     "text": "منتجات لا تُرد"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "الأطعمة والمشروبات المفتوحة أو المستخدمة جزئياً، مستحضرات العناية والتجميل المفتوحة أو التي كُسر غلافها الصحي، منتجات التصفية وقريبة الصلاحية، كروت الهدايا ورصيد المتجر، وديعة زجاجات المياه ١٩ لتر حتى إرجاع الزجاجة، أي منتج تلف بسوء الاستخدام أو السقوط أو الفولت الخاطئ أو إصلاح غير معتمد، تكييفات السبليت وسخانات المياه بعد التركيب، وتقطيع الجزارة الخاص بطلب العميل إلا في حالة عيب في الجودة. الاستثناء الوحيد لمنتجات التصفية هو العيب الحقيقي أو المنتج المنتهي الصلاحية عند الوصول، ويُرد دائماً."
+    },
+    {
+     "type": "h",
+     "text": "منتج ناقص أو خطأ أو تالف"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "منتج ناقص: الإبلاغ خلال ٢٤ ساعة بدون صورة، ونرد قيمته أو نرسله مع الطلب القادم حسب رغبة العميل.",
+      "منتج خطأ: نسحبه على حسابنا ونوصل المنتج الصحيح أو نرد القيمة كاملة، وبدون أي رسوم إعادة تخزين.",
+      "منتج تالف عند الوصول: الإبلاغ خلال ٤٨ ساعة مع صورة، ورد كامل أو استبدال حسب اختيار العميل والسحب على حسابنا.",
+      "جهاز معيب خلال ١٤ يوماً من التوصيل: نستبدل الجهاز بدون الحاجة لطلب ضمان.",
+      "جهاز معيب بعد ١٤ يوماً: يسري ضمان المُصنّع، ونفتح الطلب لدى مركز الخدمة المعتمد نيابة عن العميل ونتابعه. الفاتورة هي مستند الضمان."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "طرق ومدد الاسترداد"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "البطاقات: تُرد لنفس البطاقة، التنفيذ خلال ٤٨ ساعة ثم ٥ إلى ١٤ يوم عمل في البنك. المحافظ: لنفس المحفظة حتى ٣ أيام عمل. فوري: رصيد متجر فوراً أو حساب بنكي خلال ٥ إلى ٧ أيام عمل. الدفع نقداً عند الاستلام: رصيد متجر فوراً بشكل افتراضي، أو حساب بنكي أو محفظة خلال ٥ إلى ٧ أيام عمل عند الطلب. التقسيط: تُرد لجهة التمويل التي تعدل الخطة، عادة ٧ إلى ٢١ يوماً. رصيد المتجر لا ينتهي ويُستخدم في أي طلب بما في ذلك رسوم التوصيل. لا نرد لبطاقة أو حساب أو محفظة شخص آخر."
+    },
+    {
+     "type": "h",
+     "text": "إلغاء الطلب"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "قبل خروج الطلب: مجاني ورد كامل يشمل رسوم التوصيل. بعد خروجه وقبل التسليم: يُعامل كرفض عند الباب ويحق للعميل رفض الطلب كاملاً وتُرد رسوم التوصيل. بعد التسليم: يُعامل كإرجاع. ويحق لنا إلغاء الطلب إذا فشل الدفع أو انتهى كود فوري أو كان العنوان خارج التغطية أو نفد المخزون ولم يُقبل بديل أو وُجد اشتباه احتيال، وفي كل الحالات نُبلغ العميل بالسبب ونرد المبلغ كاملاً."
+    },
+    {
+     "type": "h",
+     "text": "الموافقات والتصعيد"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "حتى ٥٠٠ جنيه: موظف خدمة عملاء. من ٥٠٠ إلى ٢٠٠٠ جنيه: مشرف الفريق. أكثر من ٢٠٠٠ جنيه أو أي مطالبة تتعلق بسلامة الغذاء أو المرض: مدير تجربة العملاء. المساعد الذكي يشرح السياسة ويبدأ الإرجاع لكنه لا يوافق على أي مبلغ استرداد، ويحوّل الحالة لموظف بشري للموافقة. وأي مطالبة بأن منتجاً سبب مرضاً تُحوَّل لموظف بشري فوراً مع تسجيل رقم الدفعة ونصح العميل بطلب المشورة الطبية."
+    }
+   ]
+  },
+  "slug": "returns-refunds",
+  "label": "Returns & refunds"
+ },
+ {
+  "title": "NILEMART — PAYMENT METHODS & BILLING POLICY",
+  "title_ar": "نايل مارت — سياسة الدفع والفواتير",
+  "meta": [
+   "Version: 1.0 · Effective 1 September 2026 · Owner: Finance & Payments"
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "ACCEPTED PAYMENT METHODS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "1.1",
+      "text": "Cards Visa, Mastercard and Meeza, issued in Egypt or abroad. 3-D Secure verification is required on every card transaction. Cards can be saved for future orders; they are stored as tokens by our payment gateway, never by NileMart, and the full card number is never visible to us or to our agents."
+     },
+     {
+      "type": "p",
+      "marker": "1.2",
+      "text": "Cash on delivery Available up to EGP 25,000 per order. Drivers carry limited change; a customer paying with a EGP 500 note for a EGP 180 order may be asked to wait while the driver gets change. Cash is not accepted on orders shipped by third-party courier."
+     },
+     {
+      "type": "p",
+      "marker": "1.3",
+      "text": "Card on delivery The driver carries a POS terminal. Available on all home-delivery orders with no upper limit. If the terminal cannot get signal at the address, the customer may pay in cash or the order returns and is rebooked."
+     },
+     {
+      "type": "p",
+      "marker": "1.4",
+      "text": "Mobile wallets Vodafone Cash, Orange Cash, Etisalat Cash and we. Paid at checkout by OTP. Wallet limits are set by the operator, not by us."
+     },
+     {
+      "type": "p",
+      "marker": "1.5",
+      "text": "Fawry A reference number is issued at checkout and is valid for 6 hours. The customer pays at any Fawry outlet or through a Fawry-enabled app. The order is not picked until payment lands, and it auto-cancels if the reference expires unpaid."
+     },
+     {
+      "type": "p",
+      "marker": "1.6",
+      "text": "Instalments Available through valU, Contact, Aman and Souhoola on baskets above EGP 3,000, over 6 to 36 months. The customer selects the provider at checkout and completes approval on the provider's side. Approval, interest and administrative fees are set by the provider, not by NileMart, and we cannot influence a declined application. Interest-free periods exist only where a published campaign says so."
+     },
+     {
+      "type": "p",
+      "marker": "1.7",
+      "text": "Gift cards and store credit NileMart gift cards come in EGP 250, 500, 1,000 and 2,500. They never expire, are not refundable for cash, and can be combined with any other payment method. Store credit issued as a refund behaves the same way and can be spent on delivery fees."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "WHAT WE DO NOT ACCEPT",
+    "nodes": [
+     {
+      "type": "ul",
+      "items": [
+       "Cheques of any kind",
+       "Bank transfer for retail orders (available for NileMart Business accounts only)",
+       "Cryptocurrency",
+       "PayPal",
+       "Foreign-issued cards on cash-on-delivery orders",
+       "Payment by a third party who is not the account holder, on instalment plans"
+      ]
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "PRICES, VAT AND INVOICES",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "All prices are in Egyptian Pounds and include 14% VAT unless the product page states otherwise. There is no service fee, packing fee or surcharge added at checkout beyond the delivery fee shown before payment."
+     },
+     {
+      "type": "p",
+      "marker": "3.2",
+      "text": "The price charged is the price shown at the moment of checkout. If a price changes after an order is placed but before delivery, the customer pays the price they saw."
+     },
+     {
+      "type": "p",
+      "marker": "3.3",
+      "text": "A VAT invoice is e-mailed on delivery and is available in the app under My Orders. For a company invoice the customer must supply the company name, tax registration number and address before dispatch, in the checkout notes or by contacting us. We cannot reissue a retail invoice as a company invoice after delivery."
+     },
+     {
+      "type": "p",
+      "marker": "3.4",
+      "text": "For weight-based items the invoice shows the listed price, not a recalculated price based on actual weight. See the delivery policy, section 4.4."
+     },
+     {
+      "type": "p",
+      "marker": "3.5",
+      "text": "Appliance invoices double as the manufacturer's warranty document. A lost invoice can be reissued from My Orders or by contacting us."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "AUTHORISATION HOLDS AND FAILED PAYMENTS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "4.1",
+      "text": "A card is authorised at checkout and captured when the order is dispatched. An authorisation that is not captured is released by the bank, usually within 3 to 7 working days. This can look like a duplicate charge on a statement; it is not, and no money leaves the account."
+     },
+     {
+      "type": "p",
+      "marker": "4.2",
+      "text": "If a payment fails three times, the order is held for 2 hours so the customer can try another method, then cancelled automatically."
+     },
+     {
+      "type": "p",
+      "marker": "4.3",
+      "text": "A declined card is declined by the customer's bank, not by us. We do not see the reason and cannot override it. The agent should suggest another method rather than retrying repeatedly."
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "REFUNDS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Refund routing and timing are set out in the returns and refunds policy, section 6. In summary: refunds return to the original payment method; cash-on- delivery refunds default to store credit and can be paid to a bank account or wallet on request within 5 to 7 working days; instalment refunds go to the finance provider, who adjusts the plan on their own cycle."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "WHAT THE AGENT MAY AND MAY NOT DO",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May: list accepted methods; explain the Fawry 6-hour window; explain the authorisation-hold effect on a statement; explain instalment eligibility thresholds; reissue an invoice."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May not: ask for a full card number, CVV, OTP, wallet PIN or account password on any channel, ever; process a payment on the customer's behalf; promise instalment approval; state an interest rate; refund to a method other than the original without a human agent's approval; discuss another person's payment details."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "Fraud note: NileMart never phones or messages a customer to ask for an OTP, a card number or a wallet PIN. If a customer reports being asked for these by someone claiming to be NileMart, hand the case to a human agent immediately and advise the customer not to share the code."
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — سياسة الدفع بالعربية",
+   "nodes": [
+    {
+     "type": "h",
+     "text": "طرق الدفع المقبولة"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "البطاقات: فيزا وماستركارد وميزة، مصرية أو أجنبية، مع التحقق 3-D Secure في كل عملية. البطاقات المحفوظة تُخزن كرموز عند بوابة الدفع لا عندنا، ورقم البطاقة الكامل لا يظهر لنا ولا لموظفينا أبداً.",
+      "الدفع نقداً عند الاستلام: حتى ٢٥٠٠٠ جنيه للطلب. المندوبون يحملون فكة محدودة. غير متاح للطلبات المشحونة عبر شركة شحن خارجية.",
+      "الدفع بالبطاقة عند الاستلام: المندوب يحمل ماكينة نقاط بيع، بدون حد أعلى.",
+      "المحافظ الإلكترونية: فودافون كاش وأورانج كاش وإتصالات كاش و«وي»، بالدفع عبر رمز تحقق. حدود المحفظة تحددها الشركة المشغلة لا نحن.",
+      "فوري: يُصدر رقم مرجعي صالح ٦ ساعات، ولا يُجهز الطلب قبل وصول الدفع، ويُلغى تلقائياً إذا انتهت المدة بدون دفع.",
+      "التقسيط: من خلال valU وكونتكت وأمان وسهولة للطلبات فوق ٣٠٠٠ جنيه، من ٦ إلى ٣٦ شهراً. الموافقة والفوائد والمصاريف الإدارية تحددها جهة التمويل لا نايل مارت، ولا نستطيع التأثير على طلب مرفوض. فترات بدون فوائد تكون فقط في حملة معلنة.",
+      "كروت الهدايا ورصيد المتجر: بقيم ٢٥٠ و٥٠٠ و١٠٠٠ و٢٥٠٠ جنيه، لا تنتهي، وغير قابلة للاستبدال نقداً، ويمكن دمجها مع أي طريقة دفع أخرى."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "طرق غير مقبولة"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "الشيكات، والتحويل البنكي لطلبات الأفراد (متاح لحسابات الشركات فقط)، والعملات الرقمية، وباي بال، والبطاقات الأجنبية على طلبات الدفع عند الاستلام، ودفع شخص ثالث غير صاحب الحساب في خطط التقسيط."
+    },
+    {
+     "type": "h",
+     "text": "الأسعار والضريبة والفواتير"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "كل الأسعار بالجنيه المصري وتشمل ضريبة القيمة المضافة ١٤٪ إلا إذا نصت صفحة المنتج على غير ذلك. لا توجد رسوم خدمة أو تغليف أو أي إضافات عند الدفع بخلاف رسوم التوصيل المعروضة قبل الدفع. السعر المحتسب هو السعر المعروض لحظة إتمام الطلب. تُرسل فاتورة ضريبية بالبريد عند التوصيل وتكون متاحة في التطبيق. لفاتورة باسم شركة يجب تقديم اسم الشركة والرقم الضريبي والعنوان قبل خروج الطلب، ولا يمكن تحويل فاتورة أفراد إلى فاتورة شركة بعد التوصيل. فواتير الأجهزة هي مستند الضمان ويمكن إعادة إصدارها من التطبيق أو بالتواصل معنا."
+    },
+    {
+     "type": "h",
+     "text": "الحجز على البطاقة والدفع الفاشل"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "يتم الحجز على البطاقة عند إتمام الطلب والخصم الفعلي عند خروج الطلب. الحجز غير المخصوم يُحرره البنك عادة خلال ٣ إلى ٧ أيام عمل، وقد يظهر في كشف الحساب كأنه خصم مكرر وهو ليس كذلك ولا تخرج أي أموال من الحساب. إذا فشل الدفع ثلاث مرات يُحفظ الطلب ساعتين ثم يُلغى تلقائياً. رفض البطاقة يكون من بنك العميل لا منا، ولا نرى السبب ولا نستطيع تجاوزه."
+    },
+    {
+     "type": "h",
+     "text": "ما لا يفعله المساعد أبداً"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "لا يطلب رقم بطاقة كاملاً ولا الرقم السري ولا رمز التحقق ولا رقم المحفظة السري ولا كلمة مرور الحساب على أي قناة. ولا ينفذ عملية دفع نيابة عن العميل، ولا يوعد بموافقة على التقسيط، ولا يذكر نسبة فائدة، ولا يرد لطريقة دفع مختلفة بدون موافقة موظف بشري."
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "تنبيه احتيال: نايل مارت لا يتصل أبداً بالعميل ولا يراسله لطلب رمز تحقق أو رقم بطاقة أو رقم محفظة سري. إذا أبلغ عميل بأن أحداً طلب منه ذلك منتحلاً صفة نايل مارت، تُحوَّل الحالة لموظف بشري فوراً ويُنصح العميل بعدم مشاركة الرمز."
+    }
+   ]
+  },
+  "slug": "payment",
+  "label": "Payment & billing"
+ },
+ {
+  "title": "NILEMART — NILE POINTS LOYALTY PROGRAMME",
+  "title_ar": "نايل مارت — برنامج الولاء «نقاط النيل»",
+  "meta": [
+   "Version: 1.0 · Effective 1 September 2026 · Owner: CRM & Loyalty"
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "JOINING",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "1.1",
+      "text": "Membership is free and automatic. Any account with a verified Egyptian mobile number is enrolled at Blue tier from the first order. There is no physical card and no application."
+     },
+     {
+      "type": "p",
+      "marker": "1.2",
+      "text": "One membership per mobile number. Points cannot be pooled across family members, and two accounts belonging to the same person may be merged on request but never have their spend totalled for tier purposes twice."
+     },
+     {
+      "type": "p",
+      "marker": "1.3",
+      "text": "NileMart Business accounts do not earn Nile Points; they receive contract pricing instead."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "EARNING POINTS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "2.1",
+      "text": "The base rate is 1 point per EGP 10 of eligible spend, rounded down."
+     },
+     {
+      "type": "p",
+      "marker": "2.2",
+      "text": "Points post 24 hours after the order is delivered or collected. Points are not awarded at the moment of ordering, because a cancelled or refunded order earns nothing."
+     },
+     {
+      "type": "p",
+      "marker": "2.3",
+      "text": "Eligible spend excludes:"
+     },
+     {
+      "type": "ul",
+      "items": [
+       "Delivery fees of any kind",
+       "Gift card purchases (the eventual purchase with the card does earn)",
+       "The returnable deposit on 19L water bottles",
+       "Instalment interest and provider administrative fees",
+       "Clearance and short-dated items",
+       "The value of any part of an order that is refunded"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "2.4",
+      "text": "Tier multipliers apply to the base rate. A campaign multiplier, where one is running, applies on top of the tier multiplier — so a Gold member buying home care during a double-points campaign earns 1.5 × 2 = 3x."
+     },
+     {
+      "type": "p",
+      "marker": "2.5",
+      "text": "Points from a refunded order are reversed. If the points have already been spent, the balance may go negative and is cleared by future earning."
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "REDEEMING POINTS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "100 points = EGP 10 off. Redemption is in blocks of 100 points; partial blocks cannot be used."
+     },
+     {
+      "type": "p",
+      "marker": "3.2",
+      "text": "The minimum redemption is 500 points (EGP 50). There is no maximum — a basket can be paid entirely with points if the balance allows, including the delivery fee."
+     },
+     {
+      "type": "p",
+      "marker": "3.3",
+      "text": "Points can be redeemed on any category, including appliances, and can be combined with one promo code and with tier benefits."
+     },
+     {
+      "type": "p",
+      "marker": "3.4",
+      "text": "Points cannot be redeemed on gift cards, water deposits or instalment payments, and cannot be converted to cash or transferred to another member."
+     },
+     {
+      "type": "p",
+      "marker": "3.5",
+      "text": "Redemption happens at checkout with a slider. A cancelled order returns the redeemed points to the balance within 24 hours."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "EXPIRY",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "4.1",
+      "text": "Points expire 12 months after the day they were earned, on a rolling basis. The oldest points are always spent first."
+     },
+     {
+      "type": "p",
+      "marker": "4.2",
+      "text": "A reminder is sent 30 days and 7 days before any block of points expires."
+     },
+     {
+      "type": "p",
+      "marker": "4.3",
+      "text": "Expired points cannot be reinstated. Points on an account that is closed are forfeited at closure."
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "TIERS",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Tier      Rolling 12-month spend      Points     Benefits\nBlue      EGP 0 – 14,999              1x         Base programme\nSilver    EGP 15,000 – 39,999         1.25x      Free Next-day delivery\nGold      EGP 40,000 – 99,999         1.5x       Free Same-day delivery,\n                                                 priority chat and phone queue,\n                                                 extra 5% off every basket\nPlatinum  EGP 100,000+                2x         Free Express delivery,\n                                                 dedicated care line,\n                                                 extra 5% off every basket,\n                                                 early access to campaigns"
+     },
+     {
+      "type": "p",
+      "marker": "5.1",
+      "text": "Tiers are recalculated on the first of each month against the previous 12 months of eligible spend. A tier is never downgraded mid-month."
+     },
+     {
+      "type": "p",
+      "marker": "5.2",
+      "text": "A member who drops below a threshold keeps the tier for a 3-month grace period before moving down."
+     },
+     {
+      "type": "p",
+      "marker": "5.3",
+      "text": "The extra 5% basket discount for Gold and Platinum is applied automatically at checkout and excludes appliances bought on an instalment plan."
+     },
+     {
+      "type": "p",
+      "marker": "5.4",
+      "text": "Tier delivery benefits replace the paid fee entirely; they are not a discount on it, and they do not stack with a campaign that also gives free delivery (the customer simply pays nothing either way)."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "WHAT THE AGENT MAY AND MAY NOT DO",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May: explain earning, redemption, expiry and tier rules; tell a customer their current balance and tier when the system provides it; explain why a specific line earned no points."
+     },
+     {
+      "type": "p",
+      "marker": "",
+      "text": "May not: award, adjust or restore points; extend an expiry date; move a customer to a higher tier; disclose another member's balance. All of these require a Tier-2 human agent."
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — برنامج «نقاط النيل» بالعربية",
+   "nodes": [
+    {
+     "type": "h",
+     "text": "الاشتراك"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "مجاني وتلقائي. أي حساب برقم موبايل مصري مُوثق يُسجل في المستوى الأزرق من أول طلب، بدون كارت ولا طلب اشتراك. عضوية واحدة لكل رقم موبايل، والنقاط لا تُجمع بين أفراد الأسرة. حسابات الشركات لا تكسب نقاطاً وتحصل على أسعار تعاقدية بدلاً من ذلك."
+    },
+    {
+     "type": "h",
+     "text": "كسب النقاط"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "المعدل الأساسي نقطة لكل ١٠ جنيهات من الإنفاق المؤهل، مع التقريب لأسفل. تُضاف النقاط بعد ٢٤ ساعة من التوصيل أو الاستلام لا عند الطلب. الإنفاق المؤهل لا يشمل رسوم التوصيل، ولا شراء كروت الهدايا، ولا وديعة زجاجات المياه ١٩ لتر، ولا فوائد التقسيط ومصاريفه الإدارية، ولا منتجات التصفية وقريبة الصلاحية، ولا قيمة أي جزء من الطلب تم استرداده. مضاعف المستوى يُطبق على المعدل الأساسي، ومضاعف الحملة يُطبق فوقه — فعضو ذهبي يشتري منظفات في حملة نقاط مضاعفة يكسب ١.٥ × ٢ = ٣ أضعاف. نقاط الطلب المسترد تُسحب، وإذا كانت قد صُرفت قد يصبح الرصيد سالباً ويُسدد من الكسب المستقبلي."
+    },
+    {
+     "type": "h",
+     "text": "استبدال النقاط"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "١٠٠ نقطة = ١٠ جنيهات خصم، والاستبدال بمضاعفات ١٠٠ نقطة فقط. الحد الأدنى للاستبدال ٥٠٠ نقطة (٥٠ جنيهاً) ولا يوجد حد أقصى، ويمكن دفع السلة بالكامل بالنقاط إذا سمح الرصيد بما في ذلك رسوم التوصيل. يمكن الاستبدال على أي فئة بما فيها الأجهزة، ويمكن دمجه مع كود خصم واحد ومع مزايا المستوى. لا يمكن استبدال النقاط على كروت الهدايا أو وديعة المياه أو أقساط التقسيط، ولا تحويلها إلى نقد أو نقلها لعضو آخر. الطلب الملغي يعيد النقاط المستبدلة للرصيد خلال ٢٤ ساعة."
+    },
+    {
+     "type": "h",
+     "text": "انتهاء الصلاحية"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "تنتهي النقاط بعد ١٢ شهراً من يوم كسبها بشكل متجدد، والأقدم يُصرف أولاً. يُرسل تنبيه قبل ٣٠ يوماً و٧ أيام من انتهاء أي دفعة نقاط. النقاط المنتهية لا تُعاد، ونقاط الحساب المُغلق تسقط عند الإغلاق."
+    },
+    {
+     "type": "h",
+     "text": "المستويات"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "أزرق: من صفر إلى ١٤٩٩٩ جنيهاً — المعدل الأساسي.",
+      "فضي: من ١٥٠٠٠ إلى ٣٩٩٩٩ جنيهاً — ١.٢٥ ضعف، وتوصيل الغد مجاناً.",
+      "ذهبي: من ٤٠٠٠٠ إلى ٩٩٩٩٩ جنيهاً — ١.٥ ضعف، وتوصيل نفس اليوم مجاناً، وأولوية في طابور الدردشة والهاتف، وخصم ٥٪ إضافي على كل سلة.",
+      "بلاتيني: من ١٠٠٠٠٠ جنيه وأكثر — ضعفان، وتوصيل سريع مجاناً، وخط خدمة مخصص، وخصم ٥٪ إضافي، ووصول مبكر للحملات."
+     ]
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "تُحسب المستويات في أول كل شهر على إنفاق الاثني عشر شهراً السابقة، ولا يُخفض المستوى في منتصف الشهر. من ينزل عن حد المستوى يحتفظ به ٣ أشهر كفترة سماح قبل النزول. خصم الـ ٥٪ الإضافي للذهبي والبلاتيني يُطبق تلقائياً ولا يشمل الأجهزة المشتراة بالتقسيط."
+    },
+    {
+     "type": "h",
+     "text": "ما لا يفعله المساعد"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "لا يمنح نقاطاً ولا يعدلها ولا يستعيدها، ولا يمد مدة الصلاحية، ولا ينقل عميلاً لمستوى أعلى، ولا يكشف رصيد عضو آخر. كل ذلك يتطلب موظفاً بشرياً."
+    }
+   ]
+  },
+  "slug": "loyalty",
+  "label": "Nile Points loyalty"
+ },
+ {
+  "title": "NILEMART — PRIVACY & DATA POLICY",
+  "title_ar": "نايل مارت — سياسة الخصوصية وحماية البيانات",
+  "meta": [
+   "Version: 1.0 · Effective 1 September 2026 · Owner: Legal & Data Protection",
+   "Governed by Egypt's Personal Data Protection Law 151/2020.",
+   "Data Protection Officer: dpo@nilemart.com.eg"
+  ],
+  "sections": [
+   {
+    "number": "1",
+    "title": "WHAT WE COLLECT",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "1.1",
+      "text": "Given by the customer Name, mobile number, e-mail address, delivery addresses, date of birth where offered, and order notes such as gate codes or butchery instructions."
+     },
+     {
+      "type": "p",
+      "marker": "1.2",
+      "text": "Generated by using our services Order history, basket contents, browsing and search history in the app and on the website, device type, app version, IP address, and approximate location when the customer grants location permission."
+     },
+     {
+      "type": "p",
+      "marker": "1.3",
+      "text": "Payment data We do not store full card numbers, expiry dates or CVV. Card details are tokenised by our PCI-DSS certified payment gateway. We hold only the card brand and the last four digits, for the customer to recognise their own saved card."
+     },
+     {
+      "type": "p",
+      "marker": "1.4",
+      "text": "Communications Chat transcripts, WhatsApp messages, e-mails, and call recordings from the hotline. Calls are recorded for quality and dispute resolution and the caller is told so before the call connects."
+     },
+     {
+      "type": "p",
+      "marker": "1.5",
+      "text": "We do not collect national ID numbers for retail accounts, health data, religious or political information, or biometric data."
+     }
+    ]
+   },
+   {
+    "number": "2",
+    "title": "WHY WE USE IT",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Purpose                                   Legal basis\nTaking, picking and delivering orders     Performance of the contract\nPayment processing and fraud checks       Contract and legal obligation\nCustomer service and dispute handling     Contract and legitimate interest\nTax invoicing and record keeping          Legal obligation\nProduct recommendations in the app        Legitimate interest, opt-out available\nMarketing by SMS, e-mail and WhatsApp     Consent, withdrawable at any time\nLoyalty tier calculation                  Contract\nService quality analytics                 Legitimate interest, aggregated"
+     }
+    ]
+   },
+   {
+    "number": "3",
+    "title": "WHO WE SHARE IT WITH",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "3.1",
+      "text": "Delivery riders and third-party couriers receive the name, phone number and address needed for that one delivery, and nothing else."
+     },
+     {
+      "type": "p",
+      "marker": "3.2",
+      "text": "Payment gateways, wallets, Fawry and instalment providers receive the data needed to process the specific transaction. Instalment providers run their own credit assessment under their own privacy terms."
+     },
+     {
+      "type": "p",
+      "marker": "3.3",
+      "text": "Cloud hosting, messaging and customer-service platform providers process data on our instruction under written data-processing agreements."
+     },
+     {
+      "type": "p",
+      "marker": "3.4",
+      "text": "Brand service centres receive the invoice number, product serial number and contact details when we open a warranty ticket for the customer."
+     },
+     {
+      "type": "p",
+      "marker": "3.5",
+      "text": "Government authorities receive data only where the law compels it."
+     },
+     {
+      "type": "p",
+      "marker": "3.6",
+      "text": "We do not sell personal data, and we do not share it with advertisers for their own purposes."
+     }
+    ]
+   },
+   {
+    "number": "4",
+    "title": "HOW LONG WE KEEP IT",
+    "nodes": [
+     {
+      "type": "pre",
+      "text": "Account and contact details        while the account is active, then 12 months\nOrder and invoice records          5 years (tax law)\nPayment tokens                     until the customer deletes the saved card\nChat and WhatsApp transcripts      24 months\nCall recordings                    6 months\nMarketing consent records          3 years after consent is withdrawn\nBrowsing and recommendation data   14 months"
+     }
+    ]
+   },
+   {
+    "number": "5",
+    "title": "CUSTOMER RIGHTS",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "",
+      "text": "A customer may at any time ask us to:"
+     },
+     {
+      "type": "ul",
+      "items": [
+       "tell them what data we hold about them, and give them a copy",
+       "correct anything inaccurate",
+       "delete their account and personal data",
+       "stop using their data for marketing",
+       "stop using their data for personalised recommendations",
+       "object to a specific use, or restrict it while a dispute is resolved"
+      ]
+     },
+     {
+      "type": "p",
+      "marker": "5.1",
+      "text": "Requests go to care@nilemart.com.eg or dpo@nilemart.com.eg from the account's registered e-mail or phone number, or through chat once the account is verified."
+     },
+     {
+      "type": "p",
+      "marker": "5.2",
+      "text": "We acknowledge within 48 hours and complete within 30 days."
+     },
+     {
+      "type": "p",
+      "marker": "5.3",
+      "text": "On a deletion request we delete personal data within 30 days and retain only what tax law requires on invoices, which is kept in a restricted archive and used for nothing else."
+     },
+     {
+      "type": "p",
+      "marker": "5.4",
+      "text": "We never charge for exercising these rights."
+     },
+     {
+      "type": "p",
+      "marker": "5.5",
+      "text": "A customer who is unhappy with our response may complain to Egypt's Personal Data Protection Centre."
+     }
+    ]
+   },
+   {
+    "number": "6",
+    "title": "MARKETING AND OPT-OUT",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "6.1",
+      "text": "Marketing messages are sent only with consent, collected separately from account creation and per channel."
+     },
+     {
+      "type": "p",
+      "marker": "6.2",
+      "text": "Every SMS carries an unsubscribe instruction, every e-mail an unsubscribe link, and WhatsApp marketing can be stopped by replying STOP."
+     },
+     {
+      "type": "p",
+      "marker": "6.3",
+      "text": "Transactional messages — order confirmation, picking updates, driver dispatch, delivery, refund confirmation, payment reminders — are not marketing and continue regardless of marketing consent, because they are part of the service."
+     },
+     {
+      "type": "p",
+      "marker": "6.4",
+      "text": "Withdrawing marketing consent takes effect within 24 hours."
+     }
+    ]
+   },
+   {
+    "number": "7",
+    "title": "SECURITY",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "7.1",
+      "text": "Data in transit is encrypted with TLS 1.2 or above. Data at rest is encrypted, and access is role-based and logged."
+     },
+     {
+      "type": "p",
+      "marker": "7.2",
+      "text": "Customer-service agents see a masked phone number and a masked e-mail address by default, and full details only on the order they are working on."
+     },
+     {
+      "type": "p",
+      "marker": "7.3",
+      "text": "A personal data breach that is likely to cause harm is reported to the Personal Data Protection Centre within 72 hours and to affected customers without undue delay."
+     },
+     {
+      "type": "p",
+      "marker": "7.4",
+      "text": "Children under 18 may not hold an account. If we learn that an account belongs to a minor, we close it and delete the data."
+     }
+    ]
+   },
+   {
+    "number": "8",
+    "title": "AI ASSISTANT AND AUTOMATED HANDLING",
+    "nodes": [
+     {
+      "type": "p",
+      "marker": "8.1",
+      "text": "Our AI assistant handles the first contact on chat and WhatsApp. It can see the customer's own orders and account after verification, and nothing belonging to anyone else."
+     },
+     {
+      "type": "p",
+      "marker": "8.2",
+      "text": "The customer can ask for a human at any point and is transferred without having to justify the request."
+     },
+     {
+      "type": "p",
+      "marker": "8.3",
+      "text": "No decision that affects a customer's money — a refund, a compensation amount, a loyalty adjustment, a fraud block — is taken by the AI assistant alone. A human agent approves all of them."
+     },
+     {
+      "type": "p",
+      "marker": "8.4",
+      "text": "Chat transcripts, including those handled by AI, are retained for 24 months and may be reviewed to improve service quality."
+     },
+     {
+      "type": "p",
+      "marker": "8.5",
+      "text": "The AI assistant must never repeat a customer's full card number, OTP, password or wallet PIN back to them, and must never ask for these."
+     }
+    ]
+   }
+  ],
+  "arabic": {
+   "title": "AR — سياسة الخصوصية بالعربية",
+   "nodes": [
+    {
+     "type": "h",
+     "text": "ما نجمعه"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "البيانات التي يقدمها العميل: الاسم ورقم الموبايل والبريد الإلكتروني وعناوين التوصيل وتاريخ الميلاد إن أُتيح وملاحظات الطلب. والبيانات الناتجة عن الاستخدام: سجل الطلبات ومحتوى السلة وسجل التصفح والبحث ونوع الجهاز وإصدار التطبيق وعنوان IP والموقع التقريبي عند منح الإذن. لا نحتفظ بأرقام البطاقات كاملة ولا تواريخ الانتهاء ولا رمز CVV — تُرمّز البطاقات عند بوابة دفع معتمدة PCI-DSS، ونحتفظ فقط بنوع البطاقة وآخر أربعة أرقام. ونحتفظ بمحادثات الدردشة وواتساب والبريد وتسجيلات المكالمات، ويُبلَّغ المتصل بالتسجيل قبل بدء المكالمة. لا نجمع أرقام الرقم القومي لحسابات الأفراد، ولا بيانات صحية أو دينية أو سياسية أو بيومترية."
+    },
+    {
+     "type": "h",
+     "text": "لماذا نستخدمها"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "تنفيذ الطلبات ومعالجة الدفع وفحص الاحتيال وخدمة العملاء والفواتير الضريبية والاحتفاظ بالسجلات وحساب مستوى الولاء — كل ذلك على أساس تنفيذ العقد أو الالتزام القانوني. التوصيات في التطبيق على أساس المصلحة المشروعة مع إمكانية الإلغاء، والتسويق بالرسائل والبريد وواتساب على أساس الموافقة القابلة للسحب في أي وقت."
+    },
+    {
+     "type": "h",
+     "text": "مع من نشاركها"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "مندوبو التوصيل وشركات الشحن يستلمون الاسم والرقم والعنوان اللازمين لتلك التوصيلة فقط. بوابات الدفع والمحافظ وفوري وجهات التقسيط تستلم ما يلزم للعملية المحددة. مقدمو الاستضافة ومنصات خدمة العملاء يعالجون البيانات بتعليماتنا وباتفاق معالجة مكتوب. مراكز خدمة الماركات تستلم رقم الفاتورة والرقم التسلسلي وبيانات التواصل عند فتح طلب ضمان. الجهات الحكومية فقط بموجب القانون. لا نبيع البيانات الشخصية ولا نشاركها مع المعلنين لأغراضهم."
+    },
+    {
+     "type": "h",
+     "text": "مدد الاحتفاظ"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "بيانات الحساب: طوال نشاط الحساب ثم ١٢ شهراً. سجلات الطلبات والفواتير: ٥ سنوات بموجب قانون الضرائب. محادثات الدردشة وواتساب: ٢٤ شهراً. تسجيلات المكالمات: ٦ أشهر. سجلات موافقة التسويق: ٣ سنوات بعد السحب. بيانات التصفح والتوصيات: ١٤ شهراً."
+    },
+    {
+     "type": "h",
+     "text": "حقوق العميل"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "يمكن للعميل في أي وقت طلب معرفة بياناته والحصول على نسخة، أو تصحيح أي بيان غير دقيق، أو حذف الحساب والبيانات الشخصية، أو وقف استخدام بياناته للتسويق أو للتوصيات، أو الاعتراض على استخدام معين أو تقييده أثناء نزاع. تُرسل الطلبات إلى care@nilemart.com.eg أو dpo@nilemart.com.eg من البريد أو الرقم المسجل، أو عبر الدردشة بعد التحقق من الحساب. نؤكد الاستلام خلال ٤٨ ساعة وننفذ خلال ٣٠ يوماً. عند طلب الحذف نحذف البيانات الشخصية خلال ٣٠ يوماً ونحتفظ فقط بما يلزمه قانون الضرائب في الفواتير في أرشيف مقيد لا يُستخدم لأي غرض آخر. لا نتقاضى أي مقابل لممارسة هذه الحقوق، ويمكن للعميل التقدم بشكوى للمركز المصري لحماية البيانات الشخصية."
+    },
+    {
+     "type": "h",
+     "text": "التسويق وإلغاء الاشتراك"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "رسائل التسويق تُرسل بموافقة منفصلة لكل قناة. كل رسالة نصية تحمل تعليمات إلغاء الاشتراك، وكل بريد يحمل رابط إلغاء، وتسويق واتساب يُوقف بالرد بكلمة STOP. رسائل المعاملات — تأكيد الطلب وتحديثات التجهيز وخروج المندوب والتوصيل وتأكيد الاسترداد وتنبيهات الدفع — ليست تسويقاً وتستمر بغض النظر عن موافقة التسويق لأنها جزء من الخدمة. سحب الموافقة يُنفذ خلال ٢٤ ساعة."
+    },
+    {
+     "type": "h",
+     "text": "الأمان"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "البيانات المنقولة مشفرة بـ TLS 1.2 أو أحدث، والبيانات المخزنة مشفرة والوصول إليها بحسب الدور ومُسجل. موظفو خدمة العملاء يرون رقم الموبايل والبريد مُقنّعين بشكل افتراضي، ويرون البيانات الكاملة فقط على الطلب الذي يعملون عليه. أي خرق للبيانات الشخصية يُحتمل أن يسبب ضرراً يُبلَّغ للمركز المصري لحماية البيانات خلال ٧٢ ساعة وللعملاء المتأثرين دون تأخير. لا يُسمح لمن هم أقل من ١٨ عاماً بامتلاك حساب، وإذا علمنا بذلك نغلق الحساب ونحذف البيانات."
+    },
+    {
+     "type": "h",
+     "text": "المساعد الذكي والمعالجة الآلية"
+    },
+    {
+     "type": "p",
+     "marker": "",
+     "text": "يتولى المساعد الذكي أول تواصل على الدردشة وواتساب. يرى طلبات العميل وحسابه بعد التحقق ولا يرى شيئاً يخص أي شخص آخر. يمكن للعميل طلب موظف بشري في أي لحظة ويُحوَّل دون الحاجة لتبرير الطلب. لا يتخذ المساعد الذكي بمفرده أي قرار يؤثر على أموال العميل — استرداد أو تعويض أو تعديل نقاط أو حجب لشبهة احتيال — بل يوافق عليها موظف بشري. تُحفظ محادثات الدردشة بما فيها التي يتولاها المساعد ٢٤ شهراً وقد تُراجع لتحسين جودة الخدمة. ولا يكرر المساعد أبداً رقم بطاقة العميل كاملاً أو رمز التحقق أو كلمة المرور أو الرقم السري للمحفظة، ولا يطلبها."
+    }
+   ]
+  },
+  "slug": "privacy",
+  "label": "Privacy & data"
+ }
+]
