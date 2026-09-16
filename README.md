@@ -11,6 +11,23 @@ Every product, price, offer, branch, FAQ answer and policy line on this site com
 `../NileMart-KB/`. Nothing is invented — see **What the knowledge base does not cover**
 at the end for the gaps that were left as gaps.
 
+## Live
+
+**<https://ahmedsamra25.github.io/nilemart-demo/>**
+
+Served by GitHub Pages from <https://github.com/AhmedSamra25/nilemart-demo> (branch `main`,
+root folder). That repository holds this folder and nothing else.
+
+To publish a change:
+
+```bash
+cd nilemart-site
+git add -A && git commit -m "your message" && git push
+```
+
+Pages rebuilds in under a minute. `gh api repos/AhmedSamra25/nilemart-demo/pages/builds/latest`
+shows the build status if a change does not appear.
+
 ---
 
 ## Preview it locally
@@ -34,10 +51,12 @@ The folder is deploy-ready as-is. Nothing needs compiling.
 **Netlify Drop** — go to <https://app.netlify.com/drop> and drag the `nilemart-site` folder
 onto the page. You get a URL in a few seconds. Drag it again to update.
 
-**GitHub Pages** — push the contents of `nilemart-site/` to a repository, then in
-*Settings → Pages* set the source to the branch and folder holding these files. If you
-push the whole project rather than just this folder, set the folder to `/nilemart-site`.
-Paths are all relative, so it works from a sub-path like `username.github.io/repo/`.
+**GitHub Pages** — already set up; see **Live** above. To repeat it elsewhere, push the
+contents of `nilemart-site/` to its own repository and set *Settings → Pages* to that
+branch at root. Push only this folder, not the whole project — the parent directory sits
+inside an unrelated repository. Paths are all relative, so a sub-path like
+`username.github.io/repo/` works. The empty `.nojekyll` file stops Pages running the
+content through Jekyll.
 
 **Cloudflare Pages** — *Create a project → Connect to Git*, then set:
 
