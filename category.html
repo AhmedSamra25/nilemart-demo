@@ -45,7 +45,18 @@ try {
 <script src="js/page-category.js"></script>
 <script src="js/widget-config.js"></script>
 
-<!-- ===== TACTFUL AI WIDGET — paste the workspace snippet here ===== -->
-<!-- ============================================================== -->
+<!-- ===== TACTFUL AI WIDGET — workspace 1087 ===== -->
+<div id="embedded_messenger">
+  <div id="widget-launcher"></div>
+  <iframe id="tactful_client" src="https://webchat.tactful.ai/webchat/chatChannel.html"></iframe>
+</div>
+<script src="https://webchat.tactful.ai/webchat/embed/embed.js"></script>
+<link rel="stylesheet" href="https://webchat.tactful.ai/webchat/css/embed.css" />
+<script>
+  var profileId = "1087";
+  var token = "c31cadd034ddeff7bcdc5b1e4ae29fc362433291f543371282e218c73f9f20ee";
+  Tactful.start({ profileId: profileId, token: token });
+</script>
+<!-- ============================================== -->
 </body>
 </html>

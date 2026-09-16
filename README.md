@@ -73,35 +73,49 @@ under 1 MB; product photography is loaded from the Unsplash CDN at runtime.
 
 ---
 
-## Installing the chat widget
+## The chat widget
 
-**Where it goes.** Every page ends with this placeholder, immediately before `</body>`:
+**It is installed** — the Tactful webchat snippet for workspace **profile 1087** sits on all
+ten pages, immediately before `</body>`, between these markers:
 
 ```html
-<!-- ===== TACTFUL AI WIDGET — paste the workspace snippet here ===== -->
+<!-- ===== TACTFUL AI WIDGET — workspace 1087 ===== -->
+  …snippet…
 <!-- ============================================================== -->
 ```
 
-Paste your Tactful workspace snippet between those two comment lines.
-
-**It goes on every page — all ten.** The marker is byte-identical in each file, so you can
-do the whole site in one pass:
+To point it at a different workspace, change `profileId` and `token` in the inline script.
+They appear once per page, so change all ten together:
 
 ```bash
-grep -l "TACTFUL AI WIDGET" nilemart-site/*.html
+grep -rl "Tactful.start" nilemart-site/*.html
 ```
 
-That should list `index, category, product, offers, bundles, stores, faq, track, policies,
-cart`. A visitor who lands on `product.html` from search and never sees the home page still
-needs the launcher.
+It has to be on every page: someone landing on `product.html` from search never sees the
+home page and still needs the launcher.
 
-**The bottom-right corner is reserved.** Nothing on this site is fixed or sticky within
-120px of the bottom inline-end corner at any breakpoint — no back-to-top button, no cookie
-bar, no floating cart, no toasts. That space belongs to the chat launcher. The footer
-carries `padding-block-end: var(--widget-reserve)` so the last row of links never sits
-under it either. If you add anything to this site later, keep that corner clear. In Arabic
-the layout mirrors, so the launcher's corner mirrors with it — the reservation is written
-with logical properties and follows automatically.
+**The token is not a secret.** Webchat tokens ship in client-side HTML by design — anyone
+who opens the page can read it from view-source. But this repository is public, so the
+token is also in git history, and anyone could embed this widget on their own page and
+consume the demo workspace. Rotate it in Tactful if that matters.
+
+**The bottom-right corner is reserved for the launcher.** Nothing on this site is fixed or
+sticky within 120px of the bottom corner at any breakpoint — no back-to-top button, no
+cookie bar, no floating cart, no toasts. The footer carries
+`padding-block-end: var(--widget-reserve)` (104px) so the last row of links is never hidden
+behind it. Measured with the widget live: the launcher is a 45px bubble sitting 55px from
+the right and 40px from the bottom, and the lowest footer content clears its top edge by
+19px at full scroll. If you add anything to this site later, keep that corner clear.
+
+**The launcher does not mirror in Arabic.** Tactful positions it bottom-right in both
+directions, while this site's own layout mirrors. That is fine — the reservation is
+vertical (footer padding and a height cap on sticky sidebars), so it holds on whichever
+side the launcher lands, and nothing fixed of ours overlaps it in either direction.
+
+**Automated browsers cannot load it.** `embed.js` detects automation and logs
+*"Automated environment detected. Webchat will not load."* instead of rendering. That is the
+vendor's guard, not a fault in the page — expect it in headless CI, and verify the launcher
+in a real browser.
 
 **Page context.** `js/widget-config.js` loads on every page and publishes a plain object
 the widget can read once it is installed:
